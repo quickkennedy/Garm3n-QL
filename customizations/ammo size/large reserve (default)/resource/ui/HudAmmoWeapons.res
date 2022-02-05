@@ -43,10 +43,10 @@
 		"font"			"Garm3nFontMassive" //Huge
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"	"c-50"
-		"ypos"	"r108" //r106
+		"ypos"	"r106"
 		"zpos"			"5"
 		"wide"	"100" 
-		"tall"	"45" //42
+		"tall"	"42" 
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"center"
@@ -59,11 +59,11 @@
 		"fieldName"		"AmmoInClipShadow"
 		"font"			"Garm3nFontMassive" //Huge
 		"fgcolor"		"Garm3nHUDDarkGrey"
-		"xpos"	"c-48" //c-49
-		"ypos"	"r106" //r105
+		"xpos"	"c-49"
+		"ypos"	"r105"
 		"zpos"			"4"
 		"wide"	"100" 
-		"tall"	"45" //42
+		"tall"	"42"
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"center"	
@@ -76,7 +76,7 @@
 		"font"	"Garm3nFontLarger" //Huge
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"	"c93"
-		"ypos"			"r105" //r106
+		"ypos"			"r106"
 		"zpos"			"7"
 		"wide"			"140"
 		"tall"			"42"
@@ -92,7 +92,7 @@
 		"font"	"Garm3nFontLarger" //Huge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 		"xpos"	"c94"
-		"ypos"			"r104" //r105
+		"ypos"			"r105"
 		"zpos"			"7"
 		"wide"			"140"
 		"tall"			"42"
