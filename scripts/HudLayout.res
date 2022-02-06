@@ -1,4 +1,4 @@
-#base "../scripts/Crosshairs/Crosshairs.res"
+#base "../customizations/crosshairs.res"
 
 #base "../customizations/transparent viewmodels.res"
 
