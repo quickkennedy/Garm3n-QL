@@ -1,0 +1,1 @@
+//#base "../scripts/transparent viewmodels.res" //uncomment out for transparent viewmodels
