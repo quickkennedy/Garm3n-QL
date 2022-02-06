@@ -16,7 +16,7 @@
 		"enabled"		"1"
 		"textAlignment"	"Left"
 		"bgcolor_override" "0 0 0 175"
-		"fgcolor_override" "0 255 0 255"
+		"fgcolor_override" "QuakeGreen" //0 195 0 255 //0 255 0 255
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}					
