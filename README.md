@@ -28,11 +28,11 @@ The original rgb code for the damage numbers is: hud_combattext_red 255; hud_com
 <a>CROSSHAIRS</a>
 ====
 
-All the hud crosshairs can be found inside the scripts/crosshairs/Crosshair.res file.
+All the hud crosshairs can be found inside the customizations/crosshairs/Crosshair.res file.
 
 Change the **"visible"** value to **"1"** to enable the hud crosshair and change the **"labelText"** value to switch the crosshair style, checkout the Crosshairs.png in order to see all the possible options!
 
-It is also possible to easily animate the crosshair to turn red on damage by editing the scripts/crosshairs/Animations_Crosshairs.res file, you can find all the instructions inside the file!
+It is also possible to easily animate the crosshair to turn red on damage by editing the customizations/crosshairs/Animations_Crosshairs.res file, you can find all the instructions inside the file!
 
 
 <a>CREDITS</a>
