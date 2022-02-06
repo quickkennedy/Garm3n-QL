@@ -3,7 +3,7 @@ Scheme
 	Colors
 	{
 		"QuakeGreen"				"0 195 0 255" // color for demoman meter & bomb counter
-		"QuakeYellow"				"255 255 0" // color for head counter
+		"QuakeYellow"				"255 255 0 255" // color for head counter
 		
 		"Garm3nHUDxHair"			"0 255 0 255"
 		"Garm3nHUDBlack"			"0 0 0 255"
