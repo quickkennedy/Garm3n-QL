@@ -152,16 +152,6 @@ event ActiveTimerDim
 	Animate TimePanelValue 				FgColor			"Garm3nHUDWhite"				Linear 	0.0 0.4
 }
 
-event DamagedPlayer
-{
-	//RunEvent ScopeRemoval 0.0
-}
-
-event ScopeRemoval
-{
-    	Animate HudScope Position "9999 9999" Linear 0.0 0.0
-}
-
 //=============================================================================================================
 
 event CompetitiveGame_LowerChatWindow
