@@ -40,7 +40,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"Garm3nFontMassive" //Huge
+		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"	"c-50"
 		"ypos"	"r106"
@@ -57,7 +57,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"Garm3nFontMassive" //Huge
+		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 		"xpos"	"c-49"
 		"ypos"	"r105"
@@ -73,7 +73,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"	"Garm3nFontLarger" //Huge
+		"font"	"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"	"c93"
 		"ypos"			"r106"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"	"Garm3nFontLarger" //Huge"
+		"font"	"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 		"xpos"	"c94"
 		"ypos"			"r105"
@@ -105,7 +105,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"Garm3nFontMassive" //Huge
+		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"	"c93"
 		"ypos"			"r106"
@@ -122,7 +122,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"Garm3nFontMassive" //Huge
+		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 		"xpos"	"c94"
 		"ypos"			"r105"
