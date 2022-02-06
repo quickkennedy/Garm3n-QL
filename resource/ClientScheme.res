@@ -12,7 +12,7 @@
 
 
 //////////////////////// COLORS ///////////////////////////
-#base "../customizations/colors.res"
+#base "../customizations/colors/colors.res"
 
 Scheme
 {
