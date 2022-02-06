@@ -61,7 +61,7 @@
 		"zpos"			"2"
 
 		"xpos"			"c-38" //4
-		"ypos"			"r143" //r318
+		"ypos"			"r141" //r318
 		"wide"			"35"
 		"tall"			"36"
 
@@ -80,7 +80,7 @@
 		"zpos"			"1"
 
 		"xpos"			"c-37" //5
-		"ypos"			"r142" //r317
+		"ypos"			"r140" //r317
 		"wide"			"35"
 		"tall"			"36"
 
