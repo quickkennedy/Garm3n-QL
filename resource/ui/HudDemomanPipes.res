@@ -85,12 +85,12 @@
 			"teambg_3"		"../hud/ico_stickybomb_blue"	
 		}
 
-	     "NumPipesLabel"
+		"NumPipesLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"34"
-			"ypos"			"r308"
+			"xpos"			"c" //34
+			"ypos"			"r133" //r308
 			"zpos"			"2"
 			"wide"			"29"
 			"tall"			"24"
@@ -101,7 +101,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"%activepipes%"
-			"textAlignment"	"west"
+			"textAlignment"	"center" //west
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"Garm3nFontMedium"
@@ -113,8 +113,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelShadow"
-			"xpos"			"35"
-			"ypos"			"r307"
+			"xpos"			"c+1" //35
+			"ypos"			"r132" //r307
 			"zpos"			"2"
 			"wide"			"29"
 			"tall"			"24"
@@ -125,7 +125,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"%activepipes%"
-			"textAlignment"	"west"
+			"textAlignment"	"center" //west
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"			"Garm3nFontMedium"
@@ -140,8 +140,8 @@
 			"enabled"		"1"
 			"zpos"			"2"
 
-			"xpos"			"4"
-			"ypos"			"r318"
+			"xpos"			"c-26" //4
+			"ypos"			"r143" //r318
 			"wide"			"34"
 			"tall"			"34"
 
@@ -149,7 +149,7 @@
 			"labelText"		"b"
 			"textAlignment"	"center"	
 		
-			"fgcolor"		"0 195 0 255"
+			"fgcolor"		"QuakeGreen" //"0 195 0 255"
 		}
 		StickyIconShadow
 		{
@@ -159,8 +159,8 @@
 			"enabled"		"1"
 			"zpos"			"1"
 
-			"xpos"			"5"
-			"ypos"			"r317"
+			"xpos"			"c-25" //5
+			"ypos"			"r142" //r317
 			"wide"			"34"
 			"tall"			"34"
 
@@ -203,8 +203,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"34"
-			"ypos"			"r308"
+			"xpos"			"c" //34
+			"ypos"			"r133" //r308
 			"zpos"			"2"
 			"wide"			"29"
 			"tall"			"24"
@@ -215,8 +215,8 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"%activepipes%"
-			"textAlignment"	"west"
-			"dulltext"		"1"
+			"textAlignment"	"center" //west
+			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"Garm3nFontMedium"
 			"font_lodef"	"Garm3nFontMedium"
@@ -227,8 +227,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelShadow"
-			"xpos"			"35"
-			"ypos"			"r307"
+			"xpos"			"c+1" //35
+			"ypos"			"r132" //r307
 			"zpos"			"2"
 			"wide"			"29"
 			"tall"			"24"
@@ -239,7 +239,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"%activepipes%"
-			"textAlignment"	"west"
+			"textAlignment"	"center" //west
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"			"Garm3nFontMedium"
@@ -254,8 +254,8 @@
 			"enabled"		"1"
 			"zpos"			"2"
 
-			"xpos"			"4"
-			"ypos"			"r318"
+			"xpos"			"c-26" //4
+			"ypos"			"r143" //r318
 			"wide"			"34"
 			"tall"			"34"
 
@@ -263,7 +263,7 @@
 			"labelText"		"b"
 			"textAlignment"	"center"	
 		
-			"fgcolor"		"0 195 0 255"
+			"fgcolor"		"QuakeGreen" //"0 195 0 255"
 		}
 		StickyIconShadow
 		{
@@ -273,8 +273,8 @@
 			"enabled"		"1"
 			"zpos"			"1"
 
-			"xpos"			"5"
-			"ypos"			"r317"
+			"xpos"			"c-25" //5
+			"ypos"			"r142" //r317
 			"wide"			"34"
 			"tall"			"34"
 

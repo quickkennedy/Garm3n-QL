@@ -60,8 +60,8 @@
 		"enabled"		"1"
 		"zpos"			"2"
 
-		"xpos"			"0"
-		"ypos"			"r296"
+		"xpos"			"c-38" //4
+		"ypos"			"r143" //r318
 		"wide"			"35"
 		"tall"			"36"
 
@@ -79,8 +79,8 @@
 		"enabled"		"1"
 		"zpos"			"1"
 
-		"xpos"			"1"
-		"ypos"			"r295"
+		"xpos"			"c-37" //5
+		"ypos"			"r142" //r317
 		"wide"			"35"
 		"tall"			"36"
 
@@ -95,8 +95,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
-		"xpos"			"34"
-		"ypos"			"r289"
+		"xpos"			"c-15" //34
+		"ypos"			"r133" //r308
 		"zpos"			"2"
 		"wide"			"60"
 		"tall"			"26"
@@ -106,7 +106,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%metal%"
-		"textAlignment"	"west"
+		"textAlignment"	"center" //west
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"Garm3nHUDWhite"
@@ -116,8 +116,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValueShadow"
-		"xpos"			"35"
-		"ypos"			"r288"
+		"xpos"			"c-14" //35
+		"ypos"			"r132" //r307
 		"zpos"			"2"
 		"wide"			"60"
 		"tall"			"26"
@@ -127,7 +127,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%metal%"
-		"textAlignment"	"west"
+		"textAlignment"	"center" //west
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"Garm3nHUDDarkGrey"
