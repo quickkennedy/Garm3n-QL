@@ -2,13 +2,13 @@
 {
 	"CHudAccountPanel"
 	{
-		"delta_item_x"			"28"
-		"delta_item_start_y"	"190"
-		"delta_item_end_y"		"180"
+		"delta_item_x"			"99999"
+		"delta_item_start_y"	"99999"
+		"delta_item_end_y"		"99999"
 		"PositiveColor"			"Garm3nHUDRealGreen"
 		"NegativeColor"			"Garm3nHUDRed"
 		"zpos"			"-1"
-		"delta_lifetime"		"0.8"
+		"delta_lifetime"		"0"
 		"delta_item_font"		"Garm3nFontAccount"
 		"textAlignment"	"center"
 	}
