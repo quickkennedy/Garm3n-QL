@@ -284,6 +284,66 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"Garm3nFontTarget"
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"15"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"Garm3nFontTargetSmall"
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"14"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"Garm3nFontTargetSmaller"
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"12"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"Garm3nFontTargetSmallest"
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"10"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"Garm3nFontTargetSmallestShadow"
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"10"
+				"weight"	"500"
+				"additive"	"0"
+				"dropshadow"	"1"
+				"antialias" "1"
+			}
+		}
 	}
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//

@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -18,7 +18,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -31,7 +31,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -43,7 +43,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"28"
 				"weight"	"500"
 				"additive"	"0"
@@ -55,7 +55,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"26"
 				"weight"	"500"
 				"additive"	"0"
@@ -67,7 +67,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -79,7 +79,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"20"
 				"weight"	"500"
 				"additive"	"0"
@@ -91,7 +91,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -104,7 +104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -116,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -128,7 +128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -141,7 +141,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -153,7 +153,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -165,7 +165,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -178,7 +178,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"13"
 				"weight"	"500"
 				"additive"	"0"
@@ -191,7 +191,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -203,7 +203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -216,7 +216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -228,7 +228,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -241,7 +241,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -253,7 +253,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -265,7 +265,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -277,10 +277,70 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Xolonium GPL"
+				"name"		"Xonolium GPL"
 				"tall"		"20"
 				"weight"	"500"
 				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Garm3nFontTarget"
+		{
+			"1"
+			{
+				"name"		"Xonolium GPL"
+				"tall"		"15"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"Garm3nFontTargetSmall"
+		{
+			"1"
+			{
+				"name"		"Xonolium GPL"
+				"tall"		"14"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"Garm3nFontTargetSmaller"
+		{
+			"1"
+			{
+				"name"		"Xonolium GPL"
+				"tall"		"12"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"Garm3nFontTargetSmallest"
+		{
+			"1"
+			{
+				"name"		"Xonolium GPL"
+				"tall"		"10"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"Garm3nFontTargetSmallestShadow"
+		{
+			"1"
+			{
+				"name"		"Xonolium GPL"
+				"tall"		"10"
+				"weight"	"500"
+				"additive"	"0"
+				"dropshadow"	"1"
 				"antialias" "1"
 			}
 		}
@@ -293,7 +353,7 @@ Scheme
 		"7"	//Main Font
 		{
 			"font" "resource/fonts/xolonium-bold.otf"
-			"name" "Xolonium GPL"
+			"name" "Xonolium GPL"
 		}
 	}
 }
