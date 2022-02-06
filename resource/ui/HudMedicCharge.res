@@ -32,7 +32,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_IndividualUberchargesMinHUD"
-		"fgcolor"	"Garm3nHUDWhite"
+		"fgcolor"		"Garm3nHUDWhite"
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
