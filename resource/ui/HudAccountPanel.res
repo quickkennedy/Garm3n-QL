@@ -11,6 +11,7 @@
 		"delta_lifetime"		"0.8"
 		"delta_item_font"		"Garm3nFontAccount"
 		"textAlignment"	"center"
+		"visible"				"0"
 	}
 	
 	"AccountBG"
@@ -61,7 +62,7 @@
 		"zpos"			"2"
 
 		"xpos"			"c-38" //4
-		"ypos"			"r143" //r318
+		"ypos"			"r141" //r318 r143
 		"wide"			"35"
 		"tall"			"36"
 
@@ -80,7 +81,7 @@
 		"zpos"			"1"
 
 		"xpos"			"c-37" //5
-		"ypos"			"r142" //r317
+		"ypos"			"r140" //r317 r142
 		"wide"			"35"
 		"tall"			"36"
 
