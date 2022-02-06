@@ -67,10 +67,10 @@
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
 		"xpos"	"c-55"
-		"ypos"	"r111" //r92 r111
+		"ypos"	"r111" //r92
 		"zpos"			"2"
-		"wide"			"111" //111
-		"tall"			"5" //15 5			
+		"wide"			"111"
+		"tall"			"5" //15			
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -88,10 +88,10 @@
 		"fieldName"		"ChargeMeter1"
 		"font"			"Default"
 		"xpos"	"c-55"
-		"ypos"	"r92"
+		"ypos"	"r111" //r92
 		"zpos"			"2"
 		"wide"			"24"
-		"tall"			"15"				
+		"tall"			"5" //15				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -109,10 +109,10 @@
 		"fieldName"		"ChargeMeter2"
 		"font"			"Default"
 		"xpos"	"c-27"
-		"ypos"	"r92"
+		"ypos"	"r111" //r92
 		"zpos"			"2"
 		"wide"			"24"
-		"tall"			"15"				
+		"tall"			"5" //15				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -130,10 +130,10 @@
 		"fieldName"		"ChargeMeter3"
 		"font"			"Default"
 		"xpos"	"c2"
-		"ypos"	"r92"
+		"ypos"	"r111" //r92
 		"zpos"			"2"
 		"wide"			"24"
-		"tall"			"15"				
+		"tall"			"5" //15				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -151,10 +151,10 @@
 		"fieldName"		"ChargeMeter4"
 		"font"			"Default"
 		"xpos"	"c31"
-		"ypos"	"r92"
+		"ypos"	"r111" //r92
 		"zpos"			"2"
 		"wide"			"24"
-		"tall"			"15"				
+		"tall"			"5" //15				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -170,8 +170,8 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ResistIconAnchor"
-		"xpos"				"c2"
-		"ypos"				"r70"
+		"xpos"				"c1"
+		"ypos"				"c+10" //r70 r95
 		"wide"				"10"
 		"tall"				"10"
 		"visible"			"1"
@@ -193,5 +193,5 @@
 		"pin_to_sibling"		"ResistIconAnchor"
 		"pin_corner_to_sibling"		"1"
 		"pin_to_sibling_corner"		"1"
-	}		
+	}
 }
