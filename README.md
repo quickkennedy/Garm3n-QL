@@ -8,7 +8,7 @@
 
 [Screenshot Album](https://imgur.com/a/NuVAM)
 
-[Changelogs](https://github.com/quickkennedy/Garm3n-QL/commits/master)
+[Changelogs](https://github.com/quickkennedy/quakehud/commits/master)
 
 
 <a>INSTALLATION</a>
