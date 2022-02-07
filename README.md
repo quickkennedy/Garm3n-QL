@@ -13,3 +13,22 @@
 ====
 **Created by:** Garm3n and Hypnotize<br>
 **Fixes and Additions by:** quickkennedy
+
+<a>ADDITIONS</a>
+====
+- custom color support
+- custom font support
+- transparent viewmodel support
+- friends panel removal support
+- background from quake live
+
+<a>FIXES</a>
+====
+- icons fixed on linux
+- crosshairs fixed on linux
+
+<a>CHANGES</a>
+====
+- centered stickeybomb counter
+- centered metal counter
+- "more consistent" ubercharge meters
