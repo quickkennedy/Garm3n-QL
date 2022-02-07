@@ -344,6 +344,66 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		"Default"
+		{
+			"1"
+			{
+				"name"		"Game Logos"
+				"tall"		"9"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"2"
+			{
+				"name"		"Game Logos"
+				"tall"		"10"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"3"
+			{
+				"name"		"Game Logos"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"4"
+			{
+				"name"		"Game Logos"
+				"tall"		"17"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"5"
+			{
+				"name"		"Game Logos"
+				"tall"		"21"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"6"
+			{
+				"name"		"Game Logos"
+				"tall"		"9"
+				"weight"		"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"7"
+			{
+				"name"		"Game Logos"
+				"tall"		"9"
+				"weight"		"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 	}
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//

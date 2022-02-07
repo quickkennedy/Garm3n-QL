@@ -132,68 +132,6 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-
-		"Default"
-		{
-			"1"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"9"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"2"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"10"	
-				"weight"	"500"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"11"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"17"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"21"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"6"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"9"
-				"weight"		"500"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"7"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"9"
-				"weight"		"500"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-
-			
-		}
 		"DefaultUnderline"
 		{
 			"1"

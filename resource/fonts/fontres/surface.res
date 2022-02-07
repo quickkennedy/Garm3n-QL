@@ -344,6 +344,66 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		"Default"
+		{
+			"1"
+			{
+				"name"		"Surface"
+				"tall"		"9"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"2"
+			{
+				"name"		"Surface"
+				"tall"		"10"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"3"
+			{
+				"name"		"Surface"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"4"
+			{
+				"name"		"Surface"
+				"tall"		"17"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"5"
+			{
+				"name"		"Surface"
+				"tall"		"21"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"6"
+			{
+				"name"		"Surface"
+				"tall"		"9"
+				"weight"		"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"7"
+			{
+				"name"		"Surface"
+				"tall"		"9"
+				"weight"		"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 	}
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//

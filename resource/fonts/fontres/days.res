@@ -344,6 +344,66 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		"Default"
+		{
+			"1"
+			{
+				"name"		"Days"
+				"tall"		"9"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"2"
+			{
+				"name"		"Days"
+				"tall"		"10"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"3"
+			{
+				"name"		"Days"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"4"
+			{
+				"name"		"Days"
+				"tall"		"17"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"5"
+			{
+				"name"		"Days"
+				"tall"		"21"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"6"
+			{
+				"name"		"Days"
+				"tall"		"9"
+				"weight"		"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"7"
+			{
+				"name"		"Days"
+				"tall"		"9"
+				"weight"		"500"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 	}
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//
