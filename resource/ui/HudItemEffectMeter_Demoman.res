@@ -108,7 +108,7 @@
 		"labelText"		"s"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"QuakeShadow"
 	}
 
 	"ItemEffectMeterCount"

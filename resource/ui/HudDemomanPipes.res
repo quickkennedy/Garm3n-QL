@@ -168,7 +168,7 @@
 			"labelText"		"b"
 			"textAlignment"	"center"	
 		
-			"fgcolor"		"15 15 15 255"
+			"fgcolor"		"QuakeShadow"
 		}		
 	}
 	
@@ -282,7 +282,7 @@
 			"labelText"		"b"
 			"textAlignment"	"center"	
 		
-			"fgcolor"		"15 15 15 255"
+			"fgcolor"		"QuakeShadow"
 		}			
 	}				
 }

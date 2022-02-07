@@ -2,12 +2,14 @@ Scheme
 {
 	Colors
 	{
+		//these are colors for various icons present next to meters.
 		"QuakeGreen"				"0 195 0 255" // color for demoman meter & bomb counter
 		"QuakeYellow"				"255 255 0 255" // color for head counter icon
 		"QuakeRed"					"255 0 0 255" //color for cleaver icon
 		"QuakeOrange"				"255 85 0 255 255" //color for pomson icon
 		"QuakePurple"				"165 85 255 255" //color for sapper
 		"QuakeTeal"					"0 255 255 255" //color for focus
+		"QuakeShadow"				"15 15 15 255" //color for shadow behind icons
 
 		"Garm3nHUDxHair"			"0 255 0 255"
 		"Garm3nHUDBlack"			"0 0 0 255"
