@@ -2692,12 +2692,12 @@ Scheme
 		"9"	//Clock, Flag etc... Icons
 		{
 			"font" "resource/fonts/heydings_icons.ttf"
-			"name" "heydings_icons"
+			"name" "Heydings Icons"
 		}
 		"10" //StickyIcon
 		{
 			"font" "resource/fonts/MAC_DING.TTF"
-			"name" "MAC_DING"
+			"name" "Mac Dingbats"
 		}
 	}
 }
