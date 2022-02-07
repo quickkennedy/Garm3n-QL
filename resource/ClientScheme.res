@@ -1,4 +1,3 @@
-#base "../scripts/crosshairs/font/Crosshairs.res"
 //
 // TRACKER SCHEME RESOURCE FILE
 //
@@ -17,4 +16,5 @@
 #base "../customizations/fonts/fonts.res"
 #base "../resource/fonts.res"
 #base "../customizations/font/font.res"
+#base "../scripts/crosshairs/font/crosshairs.res"
 #base "../resource/borders.res"
