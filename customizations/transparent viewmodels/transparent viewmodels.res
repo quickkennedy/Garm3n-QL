@@ -1,1 +1,2 @@
-//#base "../../scripts/transparent viewmodels.res" //uncomment out for transparent viewmodels
+//uncomment line below for transparent viewmodels
+//#base "../../scripts/transparent viewmodels.res"
