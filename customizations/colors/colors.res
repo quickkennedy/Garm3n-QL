@@ -3,7 +3,7 @@ Scheme
 	Colors
 	{
 		//these are colors for various icons present next to meters.
-		"QuakeGreen"				"0 195 0 255" // color for demoman meter & bomb counter
+		"QuakeGreen"				"0 195 0 255" // color for bomb counter
 		"QuakeYellow"				"255 255 0 255" // color for head counter icon
 		"QuakeRed"					"255 0 0 255" //color for cleaver icon
 		"QuakeOrange"				"255 85 0 255 255" //color for pomson icon
