@@ -11,6 +11,5 @@
 
 <a>CREDITS</a>
 ====
-**Created By:** Garm3n<br>
-**Most Fixes By:** Hypnotize<br>
-**Some Things By:** quickkennedy
+**Created By:** Garm3n and Hypnotize<br>
+**Fixes And Additions By:** quickkennedy
