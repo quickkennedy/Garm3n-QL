@@ -41,10 +41,15 @@
 		// 		"xpos" represents the horizontal crosshair position 	//
 		// 		 "ypos" represents the vertical crosshair position 		//
 		// Adjust the values in order to perfectly center the crosshair //
+		//     If you are on WINDOWS, change the FIRST xpos and ypos    //
+		//   If you are on LINUX/MAC, change the SECOND xpos and ypos   //
 		//////////////////////////////////////////////////////////////////
-		
-		"xpos"		"cs-0.4999"
-		"ypos"		"cs-0.4990"
+
+		"xpos"		"cs-0.4999" [$WINDOWS]
+		"ypos"		"cs-0.4990" [$WINDOWS]
+
+		"xpos"		"cs-0.5" [$POSIX]
+		"ypos"		"cs-0.5" [$POSIX]
 		
 		//////////////////////////////////////////////////////////////////
 		//					     CROSSHAIR COLOR						//
