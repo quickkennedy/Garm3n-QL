@@ -70,7 +70,7 @@
 		"labelText"		"4"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"255 85 0 255 255"
+		"fgcolor"		"QuakeOrange"
 	}
 	EffectMeterIconShadow
 	{

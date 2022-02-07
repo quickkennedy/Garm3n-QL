@@ -72,7 +72,7 @@
 		"labelText"		"r"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"255 0 0 255"
+		"fgcolor"		"QuakeRed"
 	}
 	EffectIconShadow
 	{

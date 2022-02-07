@@ -70,7 +70,7 @@
 		"labelText"		"P"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"165 85 255 255"
+		"fgcolor"		"QuakePurple"
 	}
 	EffectIconShadow
 	{
