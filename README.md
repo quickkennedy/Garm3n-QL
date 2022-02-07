@@ -8,7 +8,7 @@
 <a>ADDITIONS</a>
 ====
 - custom color support
-- custom font support
+- alternate font support
 - transparent viewmodel support
 - friends panel removal support
 - background from quake live
