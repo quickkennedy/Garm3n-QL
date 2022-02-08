@@ -440,7 +440,7 @@
 		"IconColor"		"HudWhite"
 		"LocalPlayerColor"	"Garm3nHUDDarkGrey"
 
-		"BaseBackgroundColor"	"Garm3nHUDDarkGrey"		
+		"BaseBackgroundColor"	"TransparentBlack"		//Garm3nHUDDarkGrey
 		"LocalBackgroundColor"	"HudWhite"	
 	}
 
