@@ -237,6 +237,19 @@ Scheme
 			}
 		}
 
+		"Garm3nFontDamageDropShadow"
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"22"
+				"weight"	"500"
+				"additive"	"0"
+				"dropshadow" "1"
+				"antialias" "1"
+			}
+		}
+
 		"Garm3nFontDamageValue"
 		{
 			"1"

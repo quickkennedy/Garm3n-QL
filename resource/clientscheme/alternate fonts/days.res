@@ -1,5 +1,5 @@
 Scheme
-{	
+{
 	Fonts
 	{
 		"Garm3nFontHuge"
@@ -123,7 +123,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
+
 		"Garm3nFontSmallerShadow"
 		{
 			"1"
@@ -173,7 +173,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
+
 		"Garm3nFontTinyShadow2"
 		{
 			"1"
@@ -233,6 +233,19 @@ Scheme
 				"weight"	"500"
 				"additive"	"0"
 				"outline" "1"
+				"antialias" "1"
+			}
+		}
+
+		"Garm3nFontDamageDropShadow"
+		{
+			"1"
+			{
+				"name"		"Days"
+				"tall"		"22"
+				"weight"	"500"
+				"additive"	"0"
+				"dropshadow" "1"
 				"antialias" "1"
 			}
 		}
