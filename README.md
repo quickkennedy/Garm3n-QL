@@ -7,14 +7,14 @@
 
 <a>ADDITIONS</a>
 ====
-- custom color support
-- alternate font support
-- transparent viewmodel support
-- friends panel removal support
+- custom color
+- alternate font
+- transparent viewmodel
+- friends panel removal
 - background from quake live
 - better loadout playermodel manipulation
 - streamer mode
-- custom damage number support
+- custom damage number
 
 <a>FIXES</a>
 ====
