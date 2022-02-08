@@ -1,4 +1,4 @@
 //uncomment the one you want
-//#base "../../resource/ui/HudDamageAccountNormal" //NORMAL
-//#base "../../resource/ui/HudDamageAccountDropshadow" //DROPSHADOW
-#base "../../resource/ui/HudDamageAccountOutline" //OUTLINE
+//#base "../../resource/ui/HudDamageAccountNormal.res" //NORMAL
+//#base "../../resource/ui/HudDamageAccountDropshadow.res" //DROPSHADOW
+#base "../../resource/ui/HudDamageAccountOutline.res" //OUTLINE
