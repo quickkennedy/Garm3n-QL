@@ -15,7 +15,7 @@ Scheme
 		"Garm3nHUDxHair"			"0 255 0 255"
 		"Garm3nHUDBlack"			"0 0 0 255"
 		"Garm3nHUDBlue"				"0 175 255 255"
-		"Garm3nHUDDamage"			"255 255 0 255" // "255 95 0 255"
+		"Garm3nHUDDamage"			"255 255 0 255" //color for damage account above ammo
 		"Garm3nHUDDarkBlue"			"0 115 255 255"
 		"Garm3nHUDGreen"			"67 114 54 255"
 		"Garm3nHUDGreenish"			"169 189 116 255"
