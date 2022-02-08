@@ -2,18 +2,22 @@
 {
 	"TargetNameLabel"
 	{	
-		"font"			"null"
+		"font"			""
+		"labelText"		""
 	}
 	"TargetNameLabelfix"
 	{	
-		"font"			"null"
+		"font"			""
+		"labelText"		""
 	}
 	"TargetNameLabelShadow"
 	{	
-		"font"			"null"
+		"font"			""
+		"labelText"		""
 	}
 	"TargetDataLabel"
 	{	
-		"font"			"null"
+		"font"			""
+		"labelText"		""
 	}
 }

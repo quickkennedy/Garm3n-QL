@@ -2,26 +2,26 @@
 {
 	"ServerLabel"
 	{
-		"font"			"null"
+		"font"			""
 	}
 	"BluePlayerList"
 	{
-		"font"			"null"
+		"font"			""
 	}
 	"RedPlayerList"
 	{
-		"font"			"null"
+		"font"			""
 	}
 	"Spectators"
 	{
-		"font"			"null"
+		"font"			""
 	}	
 	"SpectatorsInQueue"
 	{
-		"font"			"null"
+		"font"			""
 	}							
 	"PlayerNameLabel"
 	{
-		"font"			"null"
+		"font"			""
 	}							
 }

@@ -2,6 +2,8 @@
 {	
 	"SplashLabel"
 	{
-		"font"			"null"
+		"font"			""
+		"labelText"		""
+		"visible"		"0"
 	}
 }

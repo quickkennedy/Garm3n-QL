@@ -2,7 +2,7 @@
 {
 	HudDeathNotice
 	{
-		TextFont"		"null"
+		TextFont"		""
 	}
 
 	HudSpectatorExtras
