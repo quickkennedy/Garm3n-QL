@@ -1,0 +1,1 @@
+rename the "_streamermode" folder to "streamermode" and then restart tf2 or use "hud_reloadscheme" in console
