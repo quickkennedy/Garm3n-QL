@@ -9,9 +9,9 @@
 //
 
 #base "../customizations/colors/colors.res"
-#base "../resource/basesettings.res"
+#base "../resource/clientscheme/basesettings.res"
 #base "../customizations/fonts/fonts.res"
-#base "../resource/fonts.res"
+#base "../resource/clientscheme/fonts.res"
 #base "../customizations/font/font.res"
 #base "../scripts/crosshairs/font/crosshairs.res"
-#base "../resource/borders.res"
+#base "../resource/clientscheme/borders.res"

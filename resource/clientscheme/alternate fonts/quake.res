@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -18,7 +18,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -31,7 +31,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -43,7 +43,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"28"
 				"weight"	"500"
 				"additive"	"0"
@@ -55,7 +55,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"26"
 				"weight"	"500"
 				"additive"	"0"
@@ -67,7 +67,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -79,7 +79,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"20"
 				"weight"	"500"
 				"additive"	"0"
@@ -91,7 +91,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -104,7 +104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -116,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -128,7 +128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -141,7 +141,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -153,7 +153,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -165,7 +165,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -178,7 +178,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"13"
 				"weight"	"500"
 				"additive"	"0"
@@ -191,7 +191,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -203,7 +203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -216,7 +216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -228,7 +228,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -241,7 +241,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -253,7 +253,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -265,7 +265,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -277,7 +277,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"20"
 				"weight"	"500"
 				"additive"	"0"
@@ -288,7 +288,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"15"
 				"weight"	"500"
 				"additive"	"0"
@@ -300,7 +300,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -312,7 +312,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -324,7 +324,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -336,7 +336,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -349,7 +349,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -357,7 +357,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -365,7 +365,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -373,7 +373,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"17"
 				"weight"	"500"
 				"additive"	"0"
@@ -381,7 +381,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"21"
 				"weight"	"500"
 				"additive"	"0"
@@ -389,7 +389,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"9"
 				"weight"		"500"
 				"additive"	"0"
@@ -397,7 +397,7 @@ Scheme
 			}
 			"7"
 			{
-				"name"		"Avenir LT Std 65 Medium"
+				"name"		"HandelGothic BT"
 				"tall"		"9"
 				"weight"		"500"
 				"additive"	"0"
@@ -412,8 +412,8 @@ Scheme
 	{
 		"7"	//Main Font
 		{
-			"font" "resource/fonts/avenir.ttf"
-			"name" "Avenir LT Std 65 Medium"
+			"font" "resource/fonts/alternate fonts/HANDGOTN.TTF"
+			"name" "HandelGothic BT"
 		}
 	}
 }

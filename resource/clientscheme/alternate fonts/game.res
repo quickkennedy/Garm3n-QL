@@ -412,7 +412,7 @@ Scheme
 	{
 		"7"	//Main Font
 		{
-			"font" "resource/fonts/game-logos.ttf"
+			"font" "resource/fonts/alternate fonts/game-logos.ttf"
 			"name" "Game Logos"
 		}
 	}
