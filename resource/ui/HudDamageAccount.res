@@ -1,5 +1,3 @@
-#base "../../customizations/damage numbers/damage number shadows.res"
-
 "Resource/UI/HudDamageAccount.res"
 {
 	"CDamageAccountPanel"
