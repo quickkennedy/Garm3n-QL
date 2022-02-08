@@ -14,6 +14,7 @@
 - background from quake live
 - better loadout playermodel manipulation
 - streamer mode
+- custom damage number support
 
 <a>FIXES</a>
 ====
