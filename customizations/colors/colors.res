@@ -39,8 +39,8 @@ Scheme
 		"Garm3nHUDDyingPulseDark"	"200 0 0 255"
 		"Garm3nHUDDyingPulseTP"		"215 0 0 255"
 		"Garm3nHUDDyingPulseOff"	"255 0 0 0"
-		"Garm3nHUDMedicCharge"		"0 255 0 255"
-		"Garm3nHUDMedicCharge2"		"0 215 0 255"
+		"Garm3nHUDMedicCharge"		"0 175 255 255"
+		"Garm3nHUDMedicCharge2"		"0 155 255 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
