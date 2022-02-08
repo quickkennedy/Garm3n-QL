@@ -13,6 +13,7 @@
 - friends panel removal support
 - background from quake live
 - better loadout playermodel manipulation
+- streamer mode (beta)
 
 <a>FIXES</a>
 ====
