@@ -450,7 +450,7 @@ Scheme
 	{
 		"100"
 		{
-			"font" "scripts/crosshairs/font/TF2Crosshairs.ttf"
+			"font" "resource/fonts/TF2Crosshairs.ttf"
 			"name" "TF2Crosshairs"
 		}
 	}
