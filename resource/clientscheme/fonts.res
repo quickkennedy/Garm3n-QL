@@ -2620,6 +2620,18 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		"BlankText"
+		{
+			"1"
+			{
+				"name"		"blank"
+				"tall"		"0"
+				"weight"	"0"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
 	}
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//
@@ -2698,6 +2710,11 @@ Scheme
 		{
 			"font" "resource/fonts/MAC_DING.TTF"
 			"name" "Mac Dingbats"
+		}
+		"11"
+		{
+			"font" "resource/fonts/blank.otf"
+			"name" "blank"
 		}
 	}
 }
