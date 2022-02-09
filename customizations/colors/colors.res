@@ -3,7 +3,7 @@ Scheme
 {
 	Colors
 	{
-		//these are colors for various icons present next to meters. -qk
+		//these are colors for various icons present next to meters.
 		"IconGreen"					"0 195 0 255" // color for stickeybomb counter icon
 		"IconYellow"				"255 255 0 255" // color for head counter icon
 		"IconRed"					"255 0 0 255" //color for cleaver icon
@@ -13,20 +13,20 @@ Scheme
 		"IconTan"					"238 232 187 255" //color for disguise icon
 		"IconGrey"					"115 115 115 255" //color for metal icon
 
-		//these are the colors for the top 3 players on the screen shown at the end of the game -qk
+		//these are the colors for the top 3 players on the screen shown at the end of the game
 		"IconGold"					"255 175 0 255" //color for top player icon
 		"IconSilver"				"185 185 185 255" //color for 2nd best player icon
 		"IconBronze"				"180 75 0 255" //color for 3rd best player icon
 
-		//these are the volors for various team colored icons -qk
+		//these are the volors for various team colored icons
 		"IconTeamBlue"				"101 121 140 255" //color for blue flag icon
 		"IconTeamRed"				"162 61 60 255" //color for red flag icon
 		"IconTeamNeutral"			"125 125 125 255" //color for neutral clock icon
 
-		//this is the color for the shadow behind ALL icons -qk
+		//this is the color for the shadow behind ALL icons
 		"IconShadow"				"15 15 15 255" //color for shadow behind ALL icons
 
-		//these are garm3nhud specific colors. some colors are used, but not all. -qk
+		//these are garm3nhud specific colors. some colors are used, but not all.
 		"Garm3nHUDxHair"			"0 255 0 255" //UNUSED
 		"Garm3nHUDBlack"			"0 0 0 255" //UNUSED
 		"Garm3nHUDBlue"				"0 175 255 255"
@@ -57,9 +57,9 @@ Scheme
 		"Garm3nHUDMedicCharge"		"0 175 255 255"
 		"Garm3nHUDMedicCharge2"		"0 155 255 255"
 
-		////////////////////////////////////////////////////////////////////////////////////////////////
-		// most colors beyond this point are unsorted and im fairly certain some are even unused. -qk //
-		////////////////////////////////////////////////////////////////////////////////////////////////
+		////////////////////////////////////////////////////////////////////////////////////////////
+		// most colors beyond this point are unsorted and im fairly certain some are even unused. //
+		////////////////////////////////////////////////////////////////////////////////////////////
 
 		// base colors
 		"Orange"			"178 82 22 255"
