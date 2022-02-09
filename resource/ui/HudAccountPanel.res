@@ -69,7 +69,7 @@
 		"labelText"		"G"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"115 115 115 255"
+		"fgcolor"		"IconGrey"
 	}
 	AccountIconShadow
 	{
@@ -88,7 +88,7 @@
 		"labelText"		"G"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"IconShadow"
 	}
 
 	"AccountValue"

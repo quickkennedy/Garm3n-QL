@@ -4,13 +4,14 @@ Scheme
 	Colors
 	{
 		//these are colors for various icons present next to meters.
-		"IconGreen"				"0 195 0 255" // color for bomb counter
+		"IconGreen"					"0 195 0 255" // color for bomb counter
 		"IconYellow"				"255 255 0 255" // color for head counter icon
 		"IconRed"					"255 0 0 255" //color for cleaver icon
 		"IconOrange"				"255 85 0 255 255" //color for pomson icon
 		"IconPurple"				"165 85 255 255" //color for sapper
 		"IconTeal"					"0 255 255 255" //color for focus
 		"IconTan"					"238 232 187 255" //color for disguise icon
+		"IconGrey"					"115 115 115 255" //color for metal icon
 		"IconTeamBlue"				"101 121 140 255" //color for blue flag icon
 		"IconTeamRed"				"162 61 60 255" //color for red flag icon
 		"IconShadow"				"15 15 15 255" //color for shadow behind icons
