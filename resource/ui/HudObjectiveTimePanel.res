@@ -61,7 +61,7 @@
 		"labelText"		"T"
 		"textAlignment"	"center"	
 			
-		"fgcolor"		"125 125 125 255"
+		"fgcolor"		"IconTeamNeutral"
 			
 		if_match
 		{
@@ -86,7 +86,7 @@
 		"labelText"		"T"
 		"textAlignment"	"center"	
 			
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"IconShadow"
 			
 		if_match
 		{
