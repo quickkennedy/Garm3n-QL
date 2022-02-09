@@ -10,6 +10,7 @@ Scheme
 		"IconOrange"				"255 85 0 255 255" //color for pomson icon
 		"IconPurple"				"165 85 255 255" //color for sapper
 		"IconTeal"					"0 255 255 255" //color for focus
+		"IconTan"					"238 232 187 255" //color for disguise icon
 		"IconShadow"				"15 15 15 255" //color for shadow behind icons
 
 		"Garm3nHUDxHair"			"0 255 0 255"

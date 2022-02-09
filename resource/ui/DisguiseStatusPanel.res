@@ -53,7 +53,7 @@
 		"labelText"		"c"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"238 232 187 255"
+		"fgcolor"		"IconTan"
 	}
 	DisguiseIconShadow
 	{
@@ -72,7 +72,7 @@
 		"labelText"		"c"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"IconShadow"
 	}
 
 	"DisguiseNameLabel"
@@ -160,7 +160,7 @@
 		"labelText"		"h"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"255 0 0 255"
+		"fgcolor"		"IconRed"
 	}
 	GUIHealthIconShadow
 	{
@@ -179,7 +179,7 @@
 		"labelText"		"h"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"IconShadow"
 	}
 
 	"SpectatorGUIHealth"
