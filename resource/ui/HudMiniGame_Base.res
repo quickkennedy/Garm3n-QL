@@ -62,7 +62,7 @@
 		"labelText"		"f"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"101 121 140 255"
+		"fgcolor"		"IconTeamBlue"
 	}
 
 	FlagIconBlueShadow
@@ -82,7 +82,7 @@
 		"labelText"		"f"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"IconShadow"
 	}
 	
 	"BlueScore"
@@ -136,7 +136,7 @@
 		"labelText"		"f"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"162 61 60 255"
+		"fgcolor"		"IconTeamRed"
 	}
 
 	FlagIconRedShadow
@@ -156,7 +156,7 @@
 		"labelText"		"f"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"IconShadow"
 	}	
 
 	"RedScore"

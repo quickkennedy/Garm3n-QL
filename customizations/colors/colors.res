@@ -11,6 +11,8 @@ Scheme
 		"IconPurple"				"165 85 255 255" //color for sapper
 		"IconTeal"					"0 255 255 255" //color for focus
 		"IconTan"					"238 232 187 255" //color for disguise icon
+		"IconTeamBlue"				"101 121 140 255" //color for blue flag icon
+		"IconTeamRed"				"162 61 60 255" //color for red flag icon
 		"IconShadow"				"15 15 15 255" //color for shadow behind icons
 
 		"Garm3nHUDxHair"			"0 255 0 255"
