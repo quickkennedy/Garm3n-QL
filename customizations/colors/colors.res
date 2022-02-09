@@ -27,33 +27,33 @@ Scheme
 		"IconShadow"				"15 15 15 255" //color for shadow behind ALL icons
 
 		//these are garm3nhud specific colors. some colors are used, but not all. -qk
-		"Garm3nHUDxHair"			"0 255 0 255"
-		"Garm3nHUDBlack"			"0 0 0 255"
+		"Garm3nHUDxHair"			"0 255 0 255" //UNUSED
+		"Garm3nHUDBlack"			"0 0 0 255" //UNUSED
 		"Garm3nHUDBlue"				"0 175 255 255"
 		"Garm3nHUDDamage"			"255 255 0 255" //color for damage account above ammo
 		"Garm3nHUDDarkBlue"			"0 115 255 255"
 		"Garm3nHUDGreen"			"67 114 54 255"
-		"Garm3nHUDGreenish"			"169 189 116 255"
+		"Garm3nHUDGreenish"			"169 189 116 255" //UNUSED
 		"Garm3nHUDRealGreen"		"0 255 0 255"
 		"Garm3nHUDDarkGrey"			"15 15 15 255"
 		"Garm3nHUDGreenGrey"		"118 138 136 255"
 		"Garm3nHUDOrange"			"255 95 0 255"
-		"Garm3nHUDTF2Orange"		"227 108 28 255"
-		"Garm3nHUDShadow"			"34 32 29 255"
-		"Garm3nHUDBlack"			"0 0 0 255"
+		"Garm3nHUDTF2Orange"		"227 108 28 255" //UNUSED
+		"Garm3nHUDShadow"			"34 32 29 255" //UNUSED
+		"Garm3nHUDBlack"			"0 0 0 255" //UNUSED
 		"Garm3nHUDGrey"				"165 165 165 255"
-		"Garm3nHUDLightGrey"		"195 195 195 255"
+		"Garm3nHUDLightGrey"		"195 195 195 255" //UNUSED
 		"Garm3nHUDRed"				"255 0 0 255"
 		"Garm3nHUDWhite"			"255 255 255 255"
-		"Garm3nHUDYellow"			"245 182 46 255"
+		"Garm3nHUDYellow"			"245 182 46 255" //UNUSED
 		"Garm3nHUDLightYellow"		"255 255 0 255"
-		"Garm3nHUDRealYellow"		"255 195 0 255"
+		"Garm3nHUDRealYellow"		"255 195 0 255" //UNUSED
 		"Garm3nHUDBonusPulse"		"0 175 255 255"
 		"Garm3nHUDBonusPulseTP"		"0 155 255 255"
 		"Garm3nHUDDyingPulse"		"255 0 0 255"
-		"Garm3nHUDDyingPulseDark"	"200 0 0 255"
+		"Garm3nHUDDyingPulseDark"	"200 0 0 255" //UNUSED
 		"Garm3nHUDDyingPulseTP"		"215 0 0 255"
-		"Garm3nHUDDyingPulseOff"	"255 0 0 0"
+		"Garm3nHUDDyingPulseOff"	"255 0 0 0" //UNUSED
 		"Garm3nHUDMedicCharge"		"0 175 255 255"
 		"Garm3nHUDMedicCharge2"		"0 155 255 255"
 
@@ -63,29 +63,29 @@ Scheme
 
 		// base colors
 		"Orange"			"178 82 22 255"
-		"OrangeDim"			"178 82 22 120"
-		"LightOrange"		"188 112 0 128"
-		"GoalOrange"		"255 133 0"
+		"OrangeDim"			"178 82 22 120" //USED IN hudanimations_tf.txt AND dashboardpartymember.res
+		"LightOrange"		"188 112 0 128" //USED IN hudanimations_tf.txt AND matchmakingcategorypanel.res
+		"GoalOrange"		"255 133 0" //UNUSED ACROSS TF2
 		"TFOrange"			"145 73 59 255"
 		"Purple"			"137 69 99 255"
 
-		"QuestGold"			"208 147 75 255"
-		"HalloweenThemeColor2015_Light"	"238 126 17 255"
-		"HalloweenThemeColor2015"		"135 54 16 255"
-		"HalloweenThemeColor2015_Dark"	"108 49 21 255"
-		"QuestUncommitted"	"183 147 100 255"
+		"QuestGold"			"208 147 75 255" //USED IN questdetailspanel.res AND scrollablequestdetails.res
+		"HalloweenThemeColor2015_Light"	"238 126 17 255" //USED IN questitemtrackerpanel_ingame.res AND scrollablequestlist_halloween.res
+		"HalloweenThemeColor2015"		"135 54 16 255" //USED IN questitempanel_merasmus_base.res
+		"HalloweenThemeColor2015_Dark"	"108 49 21 255" //UNUSED ACROSS TF2
+		"QuestUncommitted"	"183 147 100 255" //USED IN questitemtrackerpanel_cyoa.res AND questitemtrackerpanel_ingame.res AND questmappanel.res
 
-		"QuestMap_Bonus"	"222 217 166 255"
+		"QuestMap_Bonus"	"222 217 166 255" //USED IN questitemtrackerpanel_cyoa.res AND questitemtrackerpanel_ingame.res
 		"QuestMap_ActiveOrange"	"212 127 25 255"
-		"QuestMap_InactiveGrey"	"100 100 100 255"
-		"QuestMap_BGImages"	"56 58 60 255"
+		"QuestMap_InactiveGrey"	"100 100 100 255" //UNUSED ACROSS TF2
+		"QuestMap_BGImages"	"56 58 60 255" //USED IN VARIOUS region_ FILES
 
-		"PartyMember1"	"124 173 255 255"
-		"PartyMember2"	"99  232 167 255"
-		"PartyMember3"	"229 255 121 255"
-		"PartyMember4"	"232 184 99  255"
-		"PartyMember5"	"255 118 108 255"
-		"PartyMember6"	"255 133 255 255"
+		"PartyMember1"	"124 173 255 255" //UNUSED ACROSS TF2
+		"PartyMember2"	"99  232 167 255" //UNUSED ACROSS TF2
+		"PartyMember3"	"229 255 121 255" //UNUSED ACROSS TF2
+		"PartyMember4"	"232 184 99  255" //UNUSED ACROSS TF2
+		"PartyMember5"	"255 118 108 255" //UNUSED ACROSS TF2
+		"PartyMember6"	"255 133 255 255" //UNUSED ACROSS TF2
 		
 		"White"				"235 235 235 255"
 		"Red"				"192 28 0 140"
@@ -93,16 +93,14 @@ Scheme
 		"Blue"				"0 28 162 140"
 		"Yellow"			"251 235 202 255"
 		"TransparentYellow"	"251 235 202 140"
-		"BrightYellow"		"251 235 0 255"
-		//"Black"				"0 0 0 255"
-		//Changed black to a NTSC safe color //okay, apparently this is so the hud doesnt break old screens? no clue how much black is used
+		"BrightYellow"		"251 235 0 255" //USED IN genericnotificationtoastmainmenu.res AND scoreboard.res
 
 		"GreenSolid"		 "76 107 34 255"
 		
 		"Black"				"46 43 42 255"
 		"TransparentBlack"	"0 0 0 196"
 		"TransparentLightBlack"	"0 0 0 90"
-		"FooterBGBlack"		"52 48 55 255"
+		"FooterBGBlack"		"52 48 55 255" //USED IN hudtournamentsetup.res
 		
 		"HUDBlueTeam"		"104 124 155 127"
 		"HUDRedTeam"		"180 92 77 127"
@@ -112,17 +110,17 @@ Scheme
 		"HUDDeathWarning"	"255 0 0 255"
 		"HudWhite"			"255 255 255 255"
 		"HudOffWhite"		"200 187 161 255"
-		"HudBlack"			"65 65 65 255"
-		"ProgressBarBlue"	"91 122 142 255"
+		"HudBlack"			"65 65 65 255" //UNUSED?
+		"ProgressBarBlue"	"91 122 142 255" //UNUSED?
 		
 		"CreditsGreen"		"94 150 49 255"
 		
 		"Gray"				"178 178 178 255"
 
 		"Blank"				"0 0 0 0"
-		"ForTesting"		"255 0 0 32"
-		"ForTesting_Magenta"	"255 0 255 255"
-		"ForTesting_MagentaDim"	"255 0 255 120"
+		"ForTesting"		"255 0 0 32" //UNUSED?
+		"ForTesting_Magenta"	"255 0 255 255" //UNUSED?
+		"ForTesting_MagentaDim"	"255 0 255 120" //UNUSED?
 
 		"HudPanelForeground"		"123 110 59 184"
 		"HudPanelBackground"		"123 110 59 184"
