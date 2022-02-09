@@ -3,59 +3,60 @@ Scheme
 {
 	Colors
 	{
-		//these are colors for various icons present next to meters.
-		"IconGreen"					"0 195 0 255" // color for stickeybomb counter icon
-		"IconYellow"				"255 255 0 255" // color for head counter icon
-		"IconRed"					"255 0 0 255" //color for cleaver icon
-		"IconOrange"				"255 85 0 255 255" //color for pomson icon
-		"IconPurple"				"165 85 255 255" //color for sapper
-		"IconTeal"					"0 255 255 255" //color for focus
-		"IconTan"					"238 232 187 255" //color for disguise icon
-		"IconGrey"					"115 115 115 255" //color for metal icon
+		//these are colors for various icons present next to meters and sometimes counters
+		"IconGreen"					"0 195 0 255" 		//color for stickeybomb counter icon
+		"IconYellow"				"255 255 0 255" 	//color for head counter icon
+		"IconRed"					"255 0 0 255" 		//color for cleaver icon
+		"IconOrange"				"255 85 0 255 255" 	//color for pomson icon
+		"IconPurple"				"165 85 255 255" 	//color for sapper
+		"IconTeal"					"0 255 255 255" 	//color for focus
+		"IconTan"					"238 232 187 255" 	//color for disguise icon
+		"IconGrey"					"115 115 115 255" 	//color for metal icon
 
 		//these are the colors for the top 3 players on the screen shown at the end of the game
-		"IconGold"					"255 175 0 255" //color for top player icon
-		"IconSilver"				"185 185 185 255" //color for 2nd best player icon
-		"IconBronze"				"180 75 0 255" //color for 3rd best player icon
+		"IconGold"					"255 175 0 255" 	//color for top player icon
+		"IconSilver"				"185 185 185 255" 	//color for 2nd best player icon
+		"IconBronze"				"180 75 0 255" 		//color for 3rd best player icon
 
 		//these are the volors for various team colored icons
-		"IconTeamBlue"				"101 121 140 255" //color for blue flag icon
-		"IconTeamRed"				"162 61 60 255" //color for red flag icon
-		"IconTeamNeutral"			"125 125 125 255" //color for neutral clock icon
+		"IconTeamBlue"				"101 121 140 255" 	//color for blue flag icon
+		"IconTeamRed"				"162 61 60 255" 	//color for red flag icon
+		"IconTeamNeutral"			"125 125 125 255" 	//color for neutral clock icon
 
 		//this is the color for the shadow behind ALL icons
-		"IconShadow"				"15 15 15 255" //color for shadow behind ALL icons
+		"IconShadow"				"15 15 15 255" 		//color for shadow behind ALL icons
 
-		//these are garm3nhud specific colors. some colors are used, but not all.
-		"Garm3nHUDxHair"			"0 255 0 255" //UNUSED
-		"Garm3nHUDBlack"			"0 0 0 255" //UNUSED
+		//these are garm3nhud specific colors
 		"Garm3nHUDBlue"				"0 175 255 255"
-		"Garm3nHUDDamage"			"255 255 0 255" //color for damage account above ammo
+		"Garm3nHUDDamage"			"255 255 0 255" 	//color for damage account above ammo
 		"Garm3nHUDDarkBlue"			"0 115 255 255"
 		"Garm3nHUDGreen"			"67 114 54 255"
-		"Garm3nHUDGreenish"			"169 189 116 255" //UNUSED
 		"Garm3nHUDRealGreen"		"0 255 0 255"
 		"Garm3nHUDDarkGrey"			"15 15 15 255"
 		"Garm3nHUDGreenGrey"		"118 138 136 255"
 		"Garm3nHUDOrange"			"255 95 0 255"
-		"Garm3nHUDTF2Orange"		"227 108 28 255" //UNUSED
-		"Garm3nHUDShadow"			"34 32 29 255" //UNUSED
-		"Garm3nHUDBlack"			"0 0 0 255" //UNUSED
 		"Garm3nHUDGrey"				"165 165 165 255"
-		"Garm3nHUDLightGrey"		"195 195 195 255" //UNUSED
 		"Garm3nHUDRed"				"255 0 0 255"
 		"Garm3nHUDWhite"			"255 255 255 255"
-		"Garm3nHUDYellow"			"245 182 46 255" //UNUSED
 		"Garm3nHUDLightYellow"		"255 255 0 255"
-		"Garm3nHUDRealYellow"		"255 195 0 255" //UNUSED
 		"Garm3nHUDBonusPulse"		"0 175 255 255"
 		"Garm3nHUDBonusPulseTP"		"0 155 255 255"
 		"Garm3nHUDDyingPulse"		"255 0 0 255"
-		"Garm3nHUDDyingPulseDark"	"200 0 0 255" //UNUSED
 		"Garm3nHUDDyingPulseTP"		"215 0 0 255"
-		"Garm3nHUDDyingPulseOff"	"255 0 0 0" //UNUSED
 		"Garm3nHUDMedicCharge"		"0 175 255 255"
 		"Garm3nHUDMedicCharge2"		"0 155 255 255"
+
+		//these are unused garm3nhud colors, used nowhere in the hud
+		//"Garm3nHUDxHair"			"0 255 0 255" 		//UNUSED
+		//"Garm3nHUDBlack"			"0 0 0 255" 		//UNUSED
+		//"Garm3nHUDGreenish"		"169 189 116 255" 	//UNUSED
+		//"Garm3nHUDTF2Orange"		"227 108 28 255" 	//UNUSED
+		//"Garm3nHUDShadow"			"34 32 29 255" 		//UNUSED
+		//"Garm3nHUDBlack"			"0 0 0 255" 		//UNUSED
+		//"Garm3nHUDLightGrey"		"195 195 195 255" 	//UNUSED
+		//"Garm3nHUDYellow"			"245 182 46 255" 	//UNUSED
+		//"Garm3nHUDRealYellow"		"255 195 0 255" 	//UNUSED
+		//"Garm3nHUDDyingPulseDark"	"200 0 0 255" 		//UNUSED
 
 		////////////////////////////////////////////////////////////////////////////////////////////
 		// most colors beyond this point are unsorted and im fairly certain some are even unused. //
