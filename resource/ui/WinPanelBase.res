@@ -100,7 +100,7 @@
 			"labelText"		"B"
 			"textAlignment"	"center"	
 			
-			"fgcolor"		"101 121 140 255"
+			"fgcolor"		"IconTeamBlue"
 		}
 		TeamIconBlueShadow
 		{
@@ -119,7 +119,7 @@
 			"labelText"		"B"
 			"textAlignment"	"center"	
 			
-			"fgcolor"		"15 15 15 255"
+			"fgcolor"		"IconShadow"
 		}	
 		"BlueTeamScore"
 		{
@@ -208,7 +208,7 @@
 			"labelText"		"B"
 			"textAlignment"	"center"	
 			
-			"fgcolor"		"162 61 60 255"
+			"fgcolor"		"IconTeamRed"
 		}
 		TeamIconRedShadow
 		{
@@ -227,7 +227,7 @@
 			"labelText"		"B"
 			"textAlignment"	"center"	
 			
-			"fgcolor"		"15 15 15 255"
+			"fgcolor"		"IconShadow"
 		}
 		"RedTeamScore"
 		{
@@ -508,7 +508,7 @@
 		"labelText"		"A"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"255 175 0 255"
+		"fgcolor"		"IconGold"
 	}
 	Player1IconShadow
 	{
@@ -527,7 +527,7 @@
 		"labelText"		"A"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"IconShadow"
 	}
 	"Player1Name"
 	{	
@@ -617,7 +617,7 @@
 		"labelText"		"A"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"185 185 185 255"
+		"fgcolor"		"IconSilver"
 	}
 	Player2IconShadow
 	{
@@ -636,7 +636,7 @@
 		"labelText"		"A"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"IconShadow"
 	}
 	"Player2Name"
 	{	
@@ -726,7 +726,7 @@
 		"labelText"		"A"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"180 75 0 255"
+		"fgcolor"		"IconBronze"
 	}
 	Player3IconShadow
 	{
@@ -745,7 +745,7 @@
 		"labelText"		"A"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"IconShadow"
 	}
 	"Player3Name"
 	{	
