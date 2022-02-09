@@ -3,8 +3,8 @@ Scheme
 {
 	Colors
 	{
-		//these are colors for various icons present next to meters.
-		"IconGreen"					"0 195 0 255" // color for bomb counter
+		//these are colors for various icons present next to meters. -qk
+		"IconGreen"					"0 195 0 255" // color for stickeybomb counter icon
 		"IconYellow"				"255 255 0 255" // color for head counter icon
 		"IconRed"					"255 0 0 255" //color for cleaver icon
 		"IconOrange"				"255 85 0 255 255" //color for pomson icon
@@ -12,10 +12,21 @@ Scheme
 		"IconTeal"					"0 255 255 255" //color for focus
 		"IconTan"					"238 232 187 255" //color for disguise icon
 		"IconGrey"					"115 115 115 255" //color for metal icon
+
+		//these are the colors for the top 3 players on the screen shown at the end of the game -qk
+		"IconGold"					"255 175 0 255" //color for top player icon
+		"IconSilver"				"185 185 185 255" //color for 2nd best player icon
+		"IconBronze"				"180 75 0 255" //color for 3rd best player icon
+
+		//these are the volors for various team colored icons -qk
 		"IconTeamBlue"				"101 121 140 255" //color for blue flag icon
 		"IconTeamRed"				"162 61 60 255" //color for red flag icon
-		"IconShadow"				"15 15 15 255" //color for shadow behind icons
+		"IconTeamNeutral"			"125 125 125 255" //color for neutral clock icon
 
+		//this is the color for the shadow behind ALL icons -qk
+		"IconShadow"				"15 15 15 255" //color for shadow behind ALL icons
+
+		//these are garm3nhud specific colors. some colors are used, but not all. -qk
 		"Garm3nHUDxHair"			"0 255 0 255"
 		"Garm3nHUDBlack"			"0 0 0 255"
 		"Garm3nHUDBlue"				"0 175 255 255"
@@ -45,7 +56,11 @@ Scheme
 		"Garm3nHUDDyingPulseOff"	"255 0 0 0"
 		"Garm3nHUDMedicCharge"		"0 175 255 255"
 		"Garm3nHUDMedicCharge2"		"0 155 255 255"
-		
+
+		////////////////////////////////////////////////////////////////////////////////////////////////
+		// most colors beyond this point are unsorted and im fairly certain some are even unused. -qk //
+		////////////////////////////////////////////////////////////////////////////////////////////////
+
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -80,7 +95,8 @@ Scheme
 		"TransparentYellow"	"251 235 202 140"
 		"BrightYellow"		"251 235 0 255"
 		//"Black"				"0 0 0 255"
-		//Changed black to a NTSC safe color
+		//Changed black to a NTSC safe color //okay, apparently this is so the hud doesnt break old screens? no clue how much black is used
+
 		"GreenSolid"		 "76 107 34 255"
 		
 		"Black"				"46 43 42 255"
