@@ -70,7 +70,7 @@
 		"labelText"		"P"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"QuakePurple"
+		"fgcolor"		"IconPurple"
 	}
 	EffectIconShadow
 	{
@@ -89,7 +89,7 @@
 		"labelText"		"P"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"QuakeShadow"
+		"fgcolor"		"IconShadow"
 	}
 
 	"ItemEffectMeter"

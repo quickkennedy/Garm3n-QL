@@ -149,7 +149,7 @@
 			"labelText"		"b"
 			"textAlignment"	"center"	
 		
-			"fgcolor"		"QuakeGreen" //"0 195 0 255"
+			"fgcolor"		"IconGreen" //"0 195 0 255"
 		}
 		StickyIconShadow
 		{
@@ -168,7 +168,7 @@
 			"labelText"		"b"
 			"textAlignment"	"center"	
 		
-			"fgcolor"		"QuakeShadow"
+			"fgcolor"		"IconShadow"
 		}		
 	}
 	
@@ -263,7 +263,7 @@
 			"labelText"		"b"
 			"textAlignment"	"center"	
 		
-			"fgcolor"		"QuakeGreen" //"0 195 0 255"
+			"fgcolor"		"IconGreen" //"0 195 0 255"
 		}
 		StickyIconShadow
 		{
@@ -282,7 +282,7 @@
 			"labelText"		"b"
 			"textAlignment"	"center"	
 		
-			"fgcolor"		"QuakeShadow"
+			"fgcolor"		"IconShadow"
 		}			
 	}				
 }

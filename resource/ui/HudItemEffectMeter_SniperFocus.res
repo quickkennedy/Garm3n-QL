@@ -70,7 +70,7 @@
 		"labelText"		"r"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"QuakeTeal"
+		"fgcolor"		"IconTeal"
 	}
 	EffectIconShadow
 	{
@@ -89,7 +89,7 @@
 		"labelText"		"r"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"QuakeShadow"
+		"fgcolor"		"IconShadow"
 	}
 
 	"ItemEffectMeter"

@@ -89,7 +89,7 @@
 		"labelText"		"s"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"QuakeYellow"
+		"fgcolor"		"IconYellow"
 	}
 	CounterIconShadow
 	{
@@ -108,7 +108,7 @@
 		"labelText"		"s"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"QuakeShadow"
+		"fgcolor"		"IconShadow"
 	}
 
 	"ItemEffectMeterCount"
