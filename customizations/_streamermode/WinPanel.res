@@ -2,14 +2,17 @@
 {
 	"Player1Name"
 	{	
-		"font"		"null"
+		"font"		""
+		"xpos"		"99999"
 	}
 	"Player2Name"
 	{	
-		"font"		"null"
+		"font"		""
+		"xpos"		"99999"
 	}
 	"Player3Name"
 	{	
-		"font"		"null"
+		"font"		""
+		"xpos"		"99999"
 	}
 }
