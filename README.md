@@ -7,14 +7,15 @@
 
 <a>ADDITIONS</a>
 ====
-- custom color
+- custom colors
 - alternate font
 - transparent viewmodel
 - friends panel removal
 - background from quake live
 - better loadout playermodel manipulation
 - streamer mode
-- custom damage number
+- damage numbers
+- dark sourcescheme
 
 <a>FIXES</a>
 ====
