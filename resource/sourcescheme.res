@@ -7,14 +7,14 @@ Scheme
 	// this is a list of all the colors used by the scheme
 	Colors
 	{
-	    "TFDarkBrown"               "15 15 15 255"
-	    "TFDarkBrownTransparent"    "15 15 15 200"
+	    "TFDarkBrown"               "33 33 33 255" //
+	    "TFDarkBrownTransparent"    "33 33 33 200"
 	    "TFTanBright"               "255 255 255 255"
-	    "TFTanLight"                "255 255 255 0"
-	    "TFTanMedium"               "15 15 15 150"
+	    "TFTanLight"                "255 255 255 0" //
+	    "TFTanMedium"               "33 33 33 150" //
 	    
 	    "TFTanLightBright"          "229 223 211 90"
-	    "TFTanLightDark"            "15 15 15 0"
+	    "TFTanLightDark"            "33 33 33 0" //
 	    
 	    "TFOrangeBright"            "255 255 255 255"
 	    
@@ -30,15 +30,15 @@ Scheme
 	    "QuickListBGDeselected"		"69 64 58 255"
 	    "QuickListBGSelected"               "131 121 104 150"
 	    
-	    "Blank"				"15 15 15 0"
+	    "Blank"				"33 33 33 0" //
 	    
 	    // background colors
 		"ControlBG"			"76 88 68 255"		// background color of controls
 		"ControlDarkBG"		"90 106 80 255"		// darker background color; used for background of scrollbars
 		"WindowBG"			"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"		"255 255 255 50"	// background color of any selected text or menu item
+		"SelectionBG"		"255 255 255 255"		// background color of any selected text or menu item
 		"SelectionBG2"		"255 255 255 25"		// selection background in window w/o focus
-		"ListBG"			"15 15 15 255"		// background of server browser, buddy list, etc.
+		"ListBG"			"33 33 33 255"		// background of server browser, buddy list, etc. //
 	}
 	BaseSettings
 	{
@@ -49,9 +49,9 @@ Scheme
 
 		Button.TextColor				"TFTextBright" //color for server category labels
 		Button.BgColor					"TFTanLight"
-		Button.ArmedTextColor			"TFDarkBrown"
+		Button.ArmedTextColor			"TFDarkBrown" //buttons when background for them is selected
 		Button.ArmedBgColor				"TFTanBright"
-		Button.DepressedTextColor		"TFDarkBrown"
+		Button.DepressedTextColor		"TFDarkBrown" //i have literally no idea
 		Button.DepressedBgColor			"TFTanLight"	
 		Button.FocusBorderColor			"TransparentBlack"
 		
@@ -86,12 +86,12 @@ Scheme
 		FrameTitleBar.TextColor			"TFTanBright" //window title color
 		FrameTitleBar.DisabledTextColor	"TFTanLight"
 		
-		Label.TextDullColor				"TFTextDull"
+		Label.TextDullColor				"TFTextLight" //"TFTextDull"
 		Label.TextColor					"TFTextBright" //labels for dropdown menus
 		Label.TextBrightColor			"TFTextBright" //labels for dropdown menus
 		Label.SelectedTextColor			"TFTextBright" //labels for dropdown menus
 		Label.BgColor					"Blank"
-		Label.DisabledFgColor1			"TFTextDull"	
+		Label.DisabledFgColor1			"TFTextLight" //"TFTextDull"
 		Label.DisabledFgColor2			"Blank"	
 		
 		ListPanel.TextColor					"TFTextBright" //unselected servers
@@ -99,7 +99,7 @@ Scheme
 		ListPanel.SelectedBgColor			"SelectionBG"
 		ListPanel.SelectedOutOfFocusBgColor	"SelectionBG2"
 		
-		MainMenu.TextColor			"TFDarkBrown" //TanLight
+		MainMenu.TextColor			"TFTextBright" //TanLight
 		MainMenu.ArmedTextColor		"117 107 94 255"
 		MainMenu.Inset				"32"
 
