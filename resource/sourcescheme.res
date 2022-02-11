@@ -118,7 +118,7 @@ Scheme
 		ScrollBarButton.DepressedBgColor	"TFTanLight"
 
 		ScrollBarSlider.BgColor				"TFTanMedium"		// this isn't really used
-		ScrollBarSlider.FgColor				"TFTanLight"		// handle with which the slider is grabbed
+		ScrollBarSlider.FgColor				"TFTanBright"		// handle with which the slider is grabbed
 		
 		Slider.NobColor				"TFTanLight"		
 		Slider.TextColor			"TFTextBright"
