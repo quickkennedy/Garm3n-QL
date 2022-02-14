@@ -156,7 +156,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"use_proportional_insets"	"1"
-		"command"		"open_rank_type_menu"
+		"Command"		"open_rank_type_menu"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
@@ -681,13 +681,75 @@
 			}		
 		}
 	}
-	
+
+	"ReloadHudButton"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"ReloadHudButton"
+		"xpos"			"c-300"
+		"ypos"			"r158"
+		"zpos"			"15"
+		"wide"			"250"
+		"tall"			"15"
+		"visible"		"1"
+		"PaintBackgroundType"	"2"
+
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"250"
+			"tall"			"15"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"textinsetx"	"25"
+			"use_proportional_insets" "1"
+			"font"			"Garm3nFontMenu"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+			"Command"		"engine hud_reloadscheme"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			
+			"paintbackground"	"0"
+			"paintborder"		"0"
+			
+			"defaultFgColor_override" "255 255 255 255"
+			"armedFgColor_override" "225 90 20 255"
+			"depressedFgColor_override" "225 90 20 255"
+			
+			"image_drawcolor"	"225 90 20 255"
+			"image_armedcolor"	"255 255 255 255"
+			
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"10"
+				"ypos"			"2"
+				"zpos"			"1"
+				"wide"			"11"
+				"tall"			"11"
+				"visible"		"1"
+				"enabled"		"1"
+				"scaleImage"	"1"
+			}		
+		}
+	}
+
 	"QuitButton"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"QuitButton"
 		"xpos"			"c-300"
-		"ypos"			"r158"
+		"ypos"			"r142"
 		"zpos"			"15"
 		"wide"			"250"
 		"tall"			"15"
@@ -748,7 +810,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"DisconnectButton"
 		"xpos"			"c-300"
-		"ypos"			"r158"
+		"ypos"			"r142"
 		"zpos"			"15"
 		"wide"			"250"
 		"tall"			"15"
@@ -809,7 +871,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"CreateServerButton"
 		"xpos"			"c-299"
-		"ypos"			"r137"
+		"ypos"			"r121" //r122
 		"zpos"			"15"
 		"wide"			"30"
 		"tall"			"25"
@@ -870,7 +932,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"CallVoteButton"
 		"xpos"			"c-165"
-		"ypos"			"r137"
+		"ypos"			"r121" //r122
 		"zpos"			"15"
 		"wide"			"26"
 		"tall"			"26"
@@ -930,7 +992,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"MutePlayersButton"
 		"xpos"			"c-299"
-		"ypos"			"r137"
+		"ypos"			"r121" //r122
 		"zpos"			"15"
 		"wide"			"25"
 		"tall"			"25"
@@ -990,7 +1052,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"RequestCoachButton"
 		"xpos"			"c-184"
-		"ypos"			"r139"
+		"ypos"			"r123" //r122
 		"zpos"			"15"
 		"wide"			"26"
 		"tall"			"26"
@@ -1051,7 +1113,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"NewUserForumsButton"
 		"xpos"			"c-242"
-		"ypos"			"r139"
+		"ypos"			"r123" //r122
 		"zpos"			"15"
 		"wide"			"30"
 		"tall"			"25"
@@ -1101,7 +1163,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"AchievementsButton"
 		"xpos"			"c-280"
-		"ypos"			"r139"
+		"ypos"			"r123" //r122
 		"zpos"			"15"
 		"wide"			"26"
 		"tall"			"26"
@@ -1152,7 +1214,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CommentaryButton"
 		"xpos"			"c-223"
-		"ypos"			"r137"
+		"ypos"			"r121" //r122
 		"zpos"			"15"
 		"wide"			"30"
 		"tall"			"25"
@@ -1203,7 +1265,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CoachPlayersButton"
 		"xpos"			"c-209"
-		"ypos"			"r138"
+		"ypos"			"r122"
 		"zpos"			"15"
 		"wide"			"25"
 		"tall"			"25"
@@ -1254,7 +1316,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ReportBugButton"
 		"xpos"			"c-267"
-		"ypos"			"r138"
+		"ypos"			"r122"
 		"zpos"			"15"
 		"wide"			"30"
 		"tall"			"25"

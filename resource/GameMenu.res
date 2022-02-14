@@ -48,6 +48,12 @@
 		"command" 		"engine cl_hud_minmode 0"
 		"subimage" 		"glyph_practice"
 	}
+	"ReloadHudButton"
+	{
+		"label" 		"Reload Hud"
+		"command" 		"engine hud_reloadscheme"
+		"subimage" 		"glyph_bug"
+	}
 	"QuitButton"
 	{
 		"label" 		"Quit"
