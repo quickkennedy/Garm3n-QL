@@ -13,14 +13,10 @@
 - friends panel removal
 - background from quake live
 - better loadout playermodel manipulation
-- streamer mode
+- streamer mode (beta)
 - damage numbers
 - dark sourcescheme
-
-<a>FIXES</a>
-====
-- icons fixed on linux
-- crosshairs fixed on linux
+- full linux support (tested on kubuntu 21.1)
 
 <a>CHANGES</a>
 ====
