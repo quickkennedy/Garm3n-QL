@@ -2,134 +2,134 @@
 
 Scheme
 {
-    //////////////////////// COLORS ///////////////////////////
+	//////////////////////// COLORS ///////////////////////////
 	// color details
 	// this is a list of all the colors used by the scheme
 	Colors
 	{
-	    "TFDarkBrown"               "33 33 33 255" //
-	    "TFDarkBrownTransparent"    "33 33 33 200"
-	    "TFTanBright"               "255 255 255 255"
-	    "TFTanLight"                "255 255 255 0" //
-	    "TFTanLightNob"                "255 255 255 255" //
-	    "TFTanMedium"               "33 33 33 150" //
-	    
-	    "TFTanLightBright"          "229 223 211 90"
-	    "TFTanLightDark"            "33 33 33 0" //
-	    
-	    "TFOrangeBright"            "255 255 255 255"
-	    
-	    "TFTextBright"              "255 255 255 255"
-	    "TFTextLight"               "127 127 127 255"
-	    "TFTextMedium"              "127 127 127 255"
-	    "TFTextMediumDark"          "104 96 83 255"
-	    "TFTextBlack"               "42 39 37 255"
-	    "TFTextDull"                "131 121 104 255"
+		"TFDarkBrown"				"33 33 33 255"
+		"TFDarkBrownTransparent"	"33 33 33 200"
+		"TFTanBright"				"255 255 255 255"
+		"TFTanLight"				"255 255 255 0"
+		"TFTanLightNob"				"255 255 255 255"
+		"TFTanMedium"				"33 33 33 150"
 
-	    "TFMediumBrown"		"69 64 58 255"
+		"TFTanLightBright"			"229 223 211 90"
+		"TFTanLightDark"			"33 33 33 0"
 
-	    "QuickListBGDeselected"		"69 64 58 255"
-	    "QuickListBGSelected"               "131 121 104 150"
-	    
-	    "Blank"				"33 33 33 0" //
-	    
-	    // background colors
-		"ControlBG"			"76 88 68 255"		// background color of controls
-		"ControlDarkBG"		"90 106 80 255"		// darker background color; used for background of scrollbars
-		"WindowBG"			"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"		"255 255 255 25"		// background color of any selected text or menu item
-		"SelectionBG2"		"255 255 255 25"		// selection background in window w/o focus
-		"ListBG"			"33 33 33 255"		// background of server browser, buddy list, etc. //
+		"TFOrangeBright"			"255 255 255 255"
+
+		"TFTextBright"				"255 255 255 255"
+		"TFTextLight"				"127 127 127 255"
+		"TFTextMedium"				"127 127 127 255"
+		"TFTextMediumDark"			"104 96 83 255"
+		"TFTextBlack"				"42 39 37 255"
+		"TFTextDull"				"131 121 104 255"
+
+		"TFMediumBrown"				"69 64 58 255"
+
+		"QuickListBGDeselected"		"69 64 58 255"
+		"QuickListBGSelected"		"131 121 104 150"
+
+		"Blank"						"33 33 33 0"
+
+		// background colors
+		"ControlBG"					"76 88 68 255"		// background color of controls
+		"ControlDarkBG"				"90 106 80 255"		// darker background color; used for background of scrollbars
+		"WindowBG"					"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
+		"SelectionBG"				"255 255 255 25"	// background color of any selected text or menu item
+		"SelectionBG2"				"255 255 255 25"	// selection background in window w/o focus
+		"ListBG"					"33 33 33 255"		// background of server browser, buddy list, etc. //
 	}
 	BaseSettings
 	{
 		// scheme-specific colors
-		Border.Bright					"TFTanLightDark"	// the lit side of a control
-		Border.Dark						"TFTanLightDark"		// the dark/unlit side of a control
-		Border.Selection				"BorderSelection"			// the additional border color for displaying the default/selected button
+		Border.Bright							"TFTanLightDark"	// the lit side of a control
+		Border.Dark								"TFTanLightDark"	// the dark/unlit side of a control
+		Border.Selection						"BorderSelection"	// the additional border color for displaying the default/selected button
 
-		Button.TextColor				"TFTextBright" //color for server category labels
-		Button.BgColor					"TFTanLight"
-		Button.ArmedTextColor			"TFDarkBrown" //buttons when background for them is selected
-		Button.ArmedBgColor				"TFTanBright"
-		Button.DepressedTextColor		"TFDarkBrown" //i have literally no idea
-		Button.DepressedBgColor			"TFTanLight"	
-		Button.FocusBorderColor			"TransparentBlack"
+		Button.TextColor						"TFTextBright"		//color for server category labels
+		Button.BgColor							"TFTanLight"
+		Button.ArmedTextColor					"TFDarkBrown"		//buttons when background for them is selected
+		Button.ArmedBgColor						"TFTanBright"
+		Button.DepressedTextColor				"TFDarkBrown"		//i have literally no idea
+		Button.DepressedBgColor					"TFTanLight"
+		Button.FocusBorderColor					"TransparentBlack"
 		
-		CheckButton.TextColor			"TFTextBright"
-		CheckButton.SelectedTextColor		"TFTextBright"
-		CheckButton.BgColor				"ListBG"
-		CheckButton.HighlightFgColor		"TFTextMedium"
-		CheckButton.ArmedBgColor		"Blank"
-		CheckButton.DepressedBgColor		"Blank"
-		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
-		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
-		CheckButton.Check				"TFTanBright"	// color of the check itself
-		CheckButton.DisabledBgColor	    "ListBG"
+		CheckButton.TextColor					"TFTextBright"
+		CheckButton.SelectedTextColor			"TFTextBright"
+		CheckButton.BgColor						"ListBG"
+		CheckButton.HighlightFgColor			"TFTextMedium"
+		CheckButton.ArmedBgColor				"Blank"
+		CheckButton.DepressedBgColor			"Blank"
+		CheckButton.Border1  					"Border.Dark"		// the left checkbutton border
+		CheckButton.Border2  					"Border.Bright"		// the right checkbutton border
+		CheckButton.Check						"TFTanBright"		// color of the check itself
+		CheckButton.DisabledBgColor				"ListBG"
 
-		ToggleButton.SelectedTextColor	"TFTextBright" //filters button text
+		ToggleButton.SelectedTextColor			"TFTextBright"		//filters button text
 		
-		ComboBoxButton.ArrowColor		"TFTanLight"
-		ComboBoxButton.ArmedArrowColor	"TFTanBright"
-		ComboBoxButton.BgColor			"Blank"
-		ComboBoxButton.DisabledBgColor	"Blank"
+		ComboBoxButton.ArrowColor				"TFTanLight"
+		ComboBoxButton.ArmedArrowColor			"TFTanBright"
+		ComboBoxButton.BgColor					"Blank"
+		ComboBoxButton.DisabledBgColor			"Blank"
 		
-		RadioButton.TextColor		"TFTextBright" //TFTextBright
-		RadioButton.SelectedTextColor	"TFTextBright" //TFTextBright
-		RadioButton.ArmedTextColor	"TFTextBright" //TFTextMedium
+		RadioButton.TextColor					"TFTextBright"		//TFTextBright
+		RadioButton.SelectedTextColor			"TFTextBright"		//TFTextBright
+		RadioButton.ArmedTextColor				"TFTextBright"		//TFTextMedium
 		
-		Frame.BgColor					"TFDarkBrown"
-		Frame.OutOfFocusBgColor			"TFDarkBrownTransparent"
-		FrameGrip.Color1				"TFDarkBrown" //TFTanMedium
-		FrameGrip.Color2				"TFDarkBrown"
-		FrameTitleButton.FgColor		"TFTanBright"
-		FrameTitleBar.Font			"DefaultLarge"		[$WIN32]
-		FrameTitleBar.TextColor			"TFTanBright" //window title color
-		FrameTitleBar.DisabledTextColor	"TFTanLight"
+		Frame.BgColor							"TFDarkBrown"
+		Frame.OutOfFocusBgColor					"TFDarkBrownTransparent"
+		FrameGrip.Color1						"TFDarkBrown"		//TFTanMedium
+		FrameGrip.Color2						"TFDarkBrown"
+		FrameTitleButton.FgColor				"TFTanBright"
+		FrameTitleBar.Font						"DefaultLarge"
+		FrameTitleBar.TextColor					"TFTanBright"		//window title color
+		FrameTitleBar.DisabledTextColor			"TFTanLight"
 		
-		Label.TextDullColor				"TFTextLight" //"TFTextDull"
-		Label.TextColor					"TFTextBright" //labels for dropdown menus
-		Label.TextBrightColor			"TFTextBright" //labels for dropdown menus
-		Label.SelectedTextColor			"TFTextBright" //labels for dropdown menus
-		Label.BgColor					"Blank"
-		Label.DisabledFgColor1			"TFTextLight" //"TFTextDull"
-		Label.DisabledFgColor2			"Blank"	
+		Label.TextDullColor						"TFTextLight"		//"TFTextDull"
+		Label.TextColor							"TFTextBright"		//labels for dropdown menus
+		Label.TextBrightColor					"TFTextBright"		//labels for dropdown menus
+		Label.SelectedTextColor					"TFTextBright"		//labels for dropdown menus
+		Label.BgColor							"Blank"
+		Label.DisabledFgColor1					"TFTextLight"		//"TFTextDull"
+		Label.DisabledFgColor2					"Blank"
 		
-		ListPanel.TextColor					"TFTextBright" //unselected servers
-		ListPanel.BgColor					"ListBG"
-		ListPanel.SelectedBgColor			"SelectionBG"
-		ListPanel.SelectedOutOfFocusBgColor	"SelectionBG2"
+		ListPanel.TextColor						"TFTextBright"		//unselected servers
+		ListPanel.BgColor						"ListBG"
+		ListPanel.SelectedBgColor				"SelectionBG"
+		ListPanel.SelectedOutOfFocusBgColor		"SelectionBG2"
 		
-		MainMenu.TextColor			"TFTextBright" //TanLight
-		MainMenu.ArmedTextColor		"117 107 94 255"
-		MainMenu.Inset				"32"
+		MainMenu.TextColor						"TFTextBright"		//TanLight
+		MainMenu.ArmedTextColor					"117 107 94 255"
+		MainMenu.Inset							"32"
 
-		Menu.TextInset			"6"
-		Menu.FgColor			"TFTextLight"
-		Menu.BgColor			"ListBG"
-		Menu.ArmedFgColor		"TFTextBright"
-		Menu.ArmedBgColor		"TFOrangeBright"
-		Menu.DividerColor		"BorderDark"
+		Menu.TextInset							"6"
+		Menu.FgColor							"TFTextLight"
+		Menu.BgColor							"ListBG"
+		Menu.ArmedFgColor						"TFTextBright"
+		Menu.ArmedBgColor						"TFOrangeBright"
+		Menu.DividerColor						"BorderDark"
 		
-		ScrollBarButton.FgColor				"TFDarkBrown"
-		ScrollBarButton.BgColor				"TFTanLight"
-		ScrollBarButton.ArmedFgColor		"TFDarkBrown"
-		ScrollBarButton.ArmedBgColor		"TFTanBright"
-		ScrollBarButton.DepressedFgColor	"TFDarkBrown"
-		ScrollBarButton.DepressedBgColor	"TFTanLight"
+		ScrollBarButton.FgColor					"TFDarkBrown"
+		ScrollBarButton.BgColor					"TFTanLight"
+		ScrollBarButton.ArmedFgColor			"TFDarkBrown"
+		ScrollBarButton.ArmedBgColor			"TFTanBright"
+		ScrollBarButton.DepressedFgColor		"TFDarkBrown"
+		ScrollBarButton.DepressedBgColor		"TFTanLight"
 
-		ScrollBarSlider.BgColor				"TFTanMedium"		// this isn't really used
-		ScrollBarSlider.FgColor				"TFTanBright"		// handle with which the slider is grabbed
+		ScrollBarSlider.BgColor					"TFTanMedium"		// this isn't really used
+		ScrollBarSlider.FgColor					"TFTanBright"		// handle with which the slider is grabbed
 		
-		Slider.NobColor				"TFTanLightNob"
-		Slider.TextColor			"TFTextBright"
-		Slider.TrackColor			"ListBG"
-		Slider.DisabledTextColor1	"TFTextMediumDark"
-        Slider.DisabledTextColor2	"Blank"
+		Slider.NobColor							"TFTanLightNob"
+		Slider.TextColor						"TFTextBright"
+		Slider.TrackColor						"ListBG"
+		Slider.DisabledTextColor1				"TFTextMediumDark"
+		Slider.DisabledTextColor2				"Blank"
 
-		TextEntry.TextColor			        "TFTextBright" //drop down text color
-		TextEntry.DisabledTextColor	        "TFTextMedium"
-		TextEntry.SelectedBgColor	        "TFOrangeBright"
+		TextEntry.TextColor						"TFTextBright"		//drop down text color
+		TextEntry.DisabledTextColor				"TFTextMedium"
+		TextEntry.SelectedBgColor				"TFOrangeBright"
 	}
 	
 	Fonts
