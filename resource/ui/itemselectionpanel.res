@@ -434,10 +434,10 @@
 		}
 	}
 	
-	"PrevPageButton"
+	"PrevPageKeyboardButton"
     {
         "ControlName"                                               "CExButton"
-        "fieldName"                                                 "PrevPageButton"
+        "fieldName"                                                 "PrevPageKeyboardButton"
         "xpos"                                                      "99999"
         "visible"                                                   "1"
         "enabled"                                                   "1"
@@ -447,10 +447,10 @@
         "sound_released"                                            "UI/buttonclickrelease.wav"
     }
 
-    "NextPageButton"
+    "NextPageKeyboardButton"
     {
         "ControlName"                                               "CExButton"
-        "fieldName"                                                 "NextPageButton"
+        "fieldName"                                                 "NextPageKeyboardButton"
         "xpos"                                                      "99999"
         "visible"                                                   "1"
         "enabled"                                                   "1"
