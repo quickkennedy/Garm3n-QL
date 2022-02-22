@@ -16,6 +16,7 @@
 - streamer mode (beta)
 - damage numbers
 - dark sourcescheme
+- big health player status
 - full linux support (tested on kubuntu 21.1)
 
 <a>CHANGES</a>
