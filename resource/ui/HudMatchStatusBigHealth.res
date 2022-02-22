@@ -6,11 +6,7 @@
 		{
 			"classimage"
 			{
-				"zpos"			"5"
-			}
-			"classimagebg"
-			{
-				"visible"		"0"
+				"zpos"			"6"
 			}
 			"healthbar"
 			{	
