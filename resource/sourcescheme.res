@@ -11,6 +11,7 @@ Scheme
 	    "TFDarkBrownTransparent"    "33 33 33 200"
 	    "TFTanBright"               "255 255 255 255"
 	    "TFTanLight"                "255 255 255 0" //
+	    "TFTanLightNob"                "255 255 255 255" //
 	    "TFTanMedium"               "33 33 33 150" //
 	    
 	    "TFTanLightBright"          "229 223 211 90"
@@ -120,7 +121,7 @@ Scheme
 		ScrollBarSlider.BgColor				"TFTanMedium"		// this isn't really used
 		ScrollBarSlider.FgColor				"TFTanBright"		// handle with which the slider is grabbed
 		
-		Slider.NobColor				"TFTanLight"		
+		Slider.NobColor				"TFTanLightNob"
 		Slider.TextColor			"TFTextBright"
 		Slider.TrackColor			"ListBG"
 		Slider.DisabledTextColor1	"TFTextMediumDark"
