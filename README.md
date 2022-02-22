@@ -17,6 +17,7 @@
 - damage numbers
 - dark sourcescheme
 - big health player status
+- keyboard navigation through menus
 - full linux support (tested on kubuntu 21.1)
 
 <a>CHANGES</a>
