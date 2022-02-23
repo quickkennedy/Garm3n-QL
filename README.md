@@ -43,4 +43,4 @@ major changes include full linux support as well as a customizable font, but oth
 
 [Screenshot Album](https://imgur.com/a/NuVAM)
 
-[Changelogs](https://github.com/quickkennedy/quakehud/commits/master)
+[Changelog](https://github.com/quickkennedy/quakehud/commits/master)
