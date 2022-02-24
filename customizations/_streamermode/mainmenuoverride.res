@@ -1,1 +1,1 @@
- #base "../../resource/ui/mainmenuoverridefriendspaneloff.res"
+#base "../../resource/ui/mainmenuoverridefriendspaneloff.res"
