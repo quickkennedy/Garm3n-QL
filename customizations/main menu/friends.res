@@ -1,3 +1,3 @@
-//uncomment the line below to turn on friends panel
+//uncomment the line below to turn off friends panel
 
-//#base "../../resource/ui/mainmenuoverridefriendspanelon.res"
+//#base "../../resource/ui/mainmenuoverridefriendspaneloff.res"
