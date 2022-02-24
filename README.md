@@ -21,11 +21,12 @@ major changes include full linux support as well as a customizable font, but oth
 - customizations
 	- streamer mode
 	- custom colors
-	- alternate font
-	- transparent viewmodel
-	- friends panel toggle
+	- alternate fonts
+	- transparent viewmodels
+	- friends panel toggle for main menu
 	- damage number styles
-	- big health player status
+	- big health player status on match hud
+	- loading screen stats/duel wins toggle
 - background from quake live
 - better loadout playermodel manipulation
 - dark sourcescheme
