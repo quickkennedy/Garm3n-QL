@@ -1,0 +1,5 @@
+delete the following files and reload your game:
+
+quakehud/scripts/chapterbackgrounds.txt
+quakehud/materials/console/background_upward.vtf
+quakehud/materials/console/background_upward_widescreen.vtf
