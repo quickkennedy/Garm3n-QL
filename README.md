@@ -27,7 +27,7 @@ major changes include full linux support as well as a customizable font, but oth
 	- damage number styles
 	- big health player status on match hud
 	- loading screen stats/duel wins toggle
-- background from quake live
+- background from quake live (optional)
 - better loadout playermodel manipulation
 - dark sourcescheme
 - full linux support (tested on kubuntu 21.1)
