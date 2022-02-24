@@ -24,7 +24,7 @@ major changes include full linux support as well as a customizable font, but oth
 - friends panel removal
 - background from quake live
 - better loadout playermodel manipulation
-- streamer mode (beta)
+- streamer mode
 - damage numbers
 - dark sourcescheme
 - big health player status
