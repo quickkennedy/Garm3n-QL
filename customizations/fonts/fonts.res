@@ -6,6 +6,7 @@
 //#base "../../resource/clientscheme/alternate fonts/surface sharpened.res" 	//SURFACE SHARPENED FONT
 //#base "../../resource/clientscheme/alternate fonts/days.res" 					//DAYS FONT
 //#base "../../resource/clientscheme/alternate fonts/avenir.res"				//AVENIR FONT
+//#base "../../resource/clientscheme/alternate fonts/helvetica.res"				//HELVETICA FONT
 
 
 
