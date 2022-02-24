@@ -34,7 +34,7 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>CHANGES</a>
 ====
-- centered stickeybomb counter
+- centered stickybomb counter
 - centered metal counter
 - "more consistent" ubercharge meters
 
