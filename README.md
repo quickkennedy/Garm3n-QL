@@ -18,18 +18,17 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>ADDITIONS</a>
 ====
-- custom colors
-- alternate font
-- transparent viewmodel
-- friends panel removal
+- customizations
+	- streamer mode
+	- custom colors
+	- alternate font
+	- transparent viewmodel
+	- friends panel toggle
+	- damage number styles
+	- big health player status
 - background from quake live
 - better loadout playermodel manipulation
-- streamer mode
-- damage numbers
 - dark sourcescheme
-- big health player status
-- keyboard navigation through menus
-- toggleable main menu friends list
 - full linux support (tested on kubuntu 21.1)
 
 <a>CHANGES</a>
