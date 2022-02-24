@@ -4,7 +4,7 @@ Scheme
 	Colors
 	{
 		//these are colors for various icons present next to meters and sometimes counters
-		"IconGreen"					"0 195 0 255" 		//color for stickeybomb counter icon
+		"IconGreen"					"0 195 0 255" 		//color for stickybomb counter icon
 		"IconYellow"				"255 255 0 255" 	//color for head counter icon
 		"IconRed"					"255 0 0 255" 		//color for cleaver icon
 		"IconOrange"				"255 85 0 255 255" 	//color for pomson icon
