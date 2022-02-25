@@ -50,8 +50,8 @@
 	}
 	"ReloadHudButton"
 	{
-		"label" 		"Reload Hud"
-		"command" 		"engine hud_reloadscheme"
+		"label" 		"Reload Game"
+		"command" 		"engine hud_reloadscheme; record fix; stop"
 		"subimage" 		"glyph_bug"
 	}
 	"QuitButton"
