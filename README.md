@@ -41,6 +41,6 @@ major changes include full linux support as well as a customizable font, but oth
 <a>LINKS</a>
 ====
 
-[Screenshot Album](https://imgur.com/a/NuVAM)
+[Screenshot Album](https://imgur.com/a/Leu0HxO)
 
 [Changelog](https://github.com/quickkennedy/quakehud/commits/master)
