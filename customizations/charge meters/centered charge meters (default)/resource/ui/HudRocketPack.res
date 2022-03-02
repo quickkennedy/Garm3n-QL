@@ -93,10 +93,10 @@
 		"fgcolor"		"IconShadow"
 	}
 
-	"ItemEffectMeter"
+	"ItemEffectMeter2"
 	{	
 		"ControlName"	"ContinuousProgressBar"
-		"fieldName"		"ItemEffectMeter"
+		"fieldName"		"ItemEffectMeter2"
 		"font"			"Default"
 		"xpos"			"c+6"
 		"ypos"			"r117"
@@ -113,10 +113,10 @@
 		"brighttext"	"0"
 	}
 
-	"ItemEffectMeter2"
+	"ItemEffectMeter"
 	{	
 		"ControlName"	"ContinuousProgressBar"
-		"fieldName"		"ItemEffectMeter2"
+		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
 		"xpos"			"c-55"
 		"ypos"			"r117"
