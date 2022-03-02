@@ -42,3 +42,8 @@ major changes include full linux support as well as a customizable font, but oth
 [Screenshot Album](https://imgur.com/a/Leu0HxO)
 
 [Changelog](https://github.com/quickkennedy/quakehud/commits/master)
+
+<a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
+====
+- fully centered charge meters
+- sniper scope removal
