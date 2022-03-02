@@ -1,6 +1,6 @@
 //uncomment the font you want
 
-#base "../../resource/clientscheme/alternate fonts/quake.res" 					//QUAKE FONT
+#base "../../resource/clientscheme/alternate fonts/quake.res"					//QUAKE FONT
 //#base "../../resource/clientscheme/alternate fonts/xonotic.res" 				//XONOTIC FONT
 //#base "../../resource/clientscheme/alternate fonts/surface.res" 				//SURFACE FONT
 //#base "../../resource/clientscheme/alternate fonts/surface sharpened.res" 	//SURFACE SHARPENED FONT
