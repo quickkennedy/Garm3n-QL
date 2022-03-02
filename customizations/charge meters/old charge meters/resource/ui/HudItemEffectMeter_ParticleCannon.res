@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_Raygun.res"
+"Resource/UI/HudItemEffectMeter_ParticleCannon.res"
 {
 	HudItemEffectMeter
 	{
@@ -53,40 +53,40 @@
 		"font"					"TFFontSmall"
 	}
 
-	EffectMeterIcon
+	EffectIcon
 	{
 		"controlName"	"CExLabel"
-		"fieldName"	 	"EffectMeterIcon"
-		"visible"		"0"
+		"fieldName"	 	"EffectIcon"
+		"visible"		"1"
 		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"0"
-		"ypos"			"r318"
+		"ypos"			"r296"
 		"wide"			"35"
 		"tall"			"36"
 
-		"font"			"EffectMeterIcon"
-		"labelText"		"4"
+		"font"			"EffectIcon"
+		"labelText"		"r"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"IconOrange"
+		"fgcolor"		"IconRed"
 	}
-	EffectMeterIconShadow
+	EffectIconShadow
 	{
 		"controlName"	"CExLabel"
-		"fieldName"	 	"EffectMeterIconShadow"
-		"visible"		"0"
+		"fieldName"	 	"EffectIconShadow"
+		"visible"		"1"
 		"enabled"		"1"
 		"zpos"			"1"
 
 		"xpos"			"1"
-		"ypos"			"r317"
+		"ypos"			"r295"
 		"wide"			"35"
 		"tall"			"36"
 
-		"font"			"EffectMeterIcon"
-		"labelText"		"4"
+		"font"			"EffectIcon"
+		"labelText"		"r"
 		"textAlignment"	"center"	
 		
 		"fgcolor"		"IconShadow"
@@ -97,10 +97,10 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
-		"xpos"			"c-55"
-		"ypos"			"r117"
+		"xpos"			"36"
+		"ypos"			"r279"
 		"zpos"			"2"
-		"wide"			"111"
+		"wide"			"37"
 		"tall"			"5"				
 		"autoResize"	"0"
 		"pinCorner"		"0"

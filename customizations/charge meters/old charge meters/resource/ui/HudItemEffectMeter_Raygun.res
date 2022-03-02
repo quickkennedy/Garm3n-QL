@@ -57,7 +57,7 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"EffectMeterIcon"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"zpos"			"2"
 
@@ -76,7 +76,7 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"EffectMeterIconShadow"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"zpos"			"1"
 
@@ -97,10 +97,10 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
-		"xpos"			"c-55"
-		"ypos"			"r117"
+		"xpos"			"36"
+		"ypos"			"r301"
 		"zpos"			"2"
-		"wide"			"111"
+		"wide"			"37"
 		"tall"			"5"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
