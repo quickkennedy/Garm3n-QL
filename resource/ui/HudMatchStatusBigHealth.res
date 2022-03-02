@@ -9,9 +9,14 @@
 				"zpos"			"6"
 			}
 			"healthbar"
-			{	
-				"ypos"					"0" //19
-				"tall"					"19"	//2
+			{
+				"ypos"					"0"
+				"tall"					"19"
+			}
+			"overhealbar"
+			{
+				"ypos"					"0"
+				"tall"					"19"
 			}
 		}
 	}
