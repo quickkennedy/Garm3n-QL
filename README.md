@@ -48,6 +48,7 @@ major changes include full linux support as well as a customizable font, but oth
 - fully centered charge meters
 - sniper scope removal
 - centered labeled charge meters
+- fixed match status big health
 
 <a>KNOWN BUGS</a>
 ====
@@ -62,3 +63,4 @@ major changes include full linux support as well as a customizable font, but oth
 - chat covers up health when opened
 - killstreak notification has extra space on the right
 - when using helvetica killername can go outside of its borders
+- when payload cart has a red outline it is too big for the payload cart texture
