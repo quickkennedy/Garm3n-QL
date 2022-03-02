@@ -47,3 +47,4 @@ major changes include full linux support as well as a customizable font, but oth
 ====
 - fully centered charge meters
 - sniper scope removal
+- centered labeled charge meters
