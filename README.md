@@ -48,3 +48,15 @@ major changes include full linux support as well as a customizable font, but oth
 - fully centered charge meters
 - sniper scope removal
 - centered labeled charge meters
+
+<a>KNOWN BUGS</a>
+====
+- elements are oddly positioned on resolutions like 1920x1080 and 1366x768
+- all of demoman's meters have no labels
+- when you die your health has a chance to stay overhealed or hurt
+- player destruction hud goes over ammo
+- alternate ammo position is broken when using higher clip sizes (for example the snipers SMG)
+- damage account overlaps with healer
+- enabling then disabling streamer mode breaks many things
+- ultrawide resolutions have poor counter visibility thanks to being on the side
+- chat covers up health when opened
