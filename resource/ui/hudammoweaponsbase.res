@@ -57,7 +57,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"Garm3nFontHugeShadow"
+		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 		"xpos"	"c-49"
 		"ypos"	"r105"
@@ -122,7 +122,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"Garm3nFontHugeShadow"
+		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 		"xpos"	"c94"
 		"ypos"			"r105"
