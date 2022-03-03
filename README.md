@@ -44,11 +44,7 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-- fully centered charge meters
-- sniper scope removal
-- centered labeled charge meters
-- fixed match status big health
-- larger match status big health
+- we're caught up!
 
 <a>KNOWN BUGS</a>
 ====
