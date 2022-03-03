@@ -14,7 +14,7 @@ Scheme
 			}
 		}
 
-		"Garm3nFontHugeDropShadow"
+		"Garm3nFontHugeShadow"
 		{
 			"1"
 			{
