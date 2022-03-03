@@ -15,7 +15,6 @@ if the changes were to be put into the garm3nhud ql repository, they would be ad
 most of the work here is from garm3n and hypnotize, so they are credited first before myself.<br>
 major changes include full linux support as well as a customizable font, but other more minor things have been added that you can see below.<br>
 
-
 <a>ADDITIONS</a>
 ====
 - customizations
@@ -49,6 +48,7 @@ major changes include full linux support as well as a customizable font, but oth
 - sniper scope removal
 - centered labeled charge meters
 - fixed match status big health
+- larger match status big health
 
 <a>KNOWN BUGS</a>
 ====
