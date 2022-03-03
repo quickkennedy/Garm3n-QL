@@ -85,7 +85,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"Garm3nFontHuge"
+		"font"			"Garm3nFontHugeShadow"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 	}
 	"PlayerStatusBleedImage"

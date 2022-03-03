@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"	"Garm3nFontHuge"
+		"font"	"Garm3nFontHugeShadow"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 		"xpos"	"c94"
 		"ypos"			"r105"
