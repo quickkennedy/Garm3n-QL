@@ -44,7 +44,7 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-- we're caught up!
+- more fonts
 
 <a>KNOWN BUGS</a>
 ====
