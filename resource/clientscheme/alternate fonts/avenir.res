@@ -14,6 +14,18 @@ Scheme
 			}
 		}
 
+		"Garm3nFontHugeShadow"
+		{
+			"1"
+			{
+				"name"		"Avenir LT Std 65 Medium"
+				"tall"		"52"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
 		"Garm3nFontHugeDropShadow"
 		{
 			"1"
