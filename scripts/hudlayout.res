@@ -4,6 +4,6 @@
 
 #base "../customizations/transparent viewmodels/transparent viewmodels.res"
 
-#base "../customizations/streamermode/HudLayout.res"
+#base "../customizations/streamermode/hudlayout.res"
 
-#base "../scripts/HudLayoutBase.res"
+#base "../scripts/hudlayoutbase.res"
