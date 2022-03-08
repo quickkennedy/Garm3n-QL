@@ -42,14 +42,14 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>CREDITS</a>
 ====
-**Created by:** Garm3n and Hypnotize<br>
-**Things used from:**
+<b>Created by:</b> Garm3n and Hypnotize<br>
+<b>Things used from:</b>
 <ul>
 	<li> <b>Hypnotize</b> - m0rehud, garm3nhud, sunset hud, hypnotize hud
 	<li> <b>Eniere</b> - improved default hud
 	<li> <b>Whisker</b> - budhud
 </ul>
-**Repository creator:** quickkennedy
+<b>Repository creator:</b> quickkennedy
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
