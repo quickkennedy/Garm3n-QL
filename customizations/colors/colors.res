@@ -251,5 +251,10 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+
+		"HudButtonRed"			"189 59 60 255"		//color used by red button on loadout screen
+		"HudButtonRedArmed"		"169 59 60 255"		//same button when armed
+		"HudButtonBlue"			"91 122 140 255"	//color used by blue button on loadout screen
+		"HudButtonBlueArmed"	"71 102 120 255"	//same button when armed
 	}
 }
