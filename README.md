@@ -66,5 +66,4 @@ major changes include full linux support as well as a customizable font, but oth
 - damage account overlaps with healer
 - enabling then disabling streamer mode breaks many things
 - killstreak notification has extra space on the right
-- when using helvetica killername can go outside of its borders
 - when payload cart has a red outline it is too big for the payload cart texture
