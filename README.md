@@ -65,7 +65,6 @@ major changes include full linux support as well as a customizable font, but oth
 - alternate ammo position is broken when using higher clip sizes (for example the snipers SMG)
 - damage account overlaps with healer
 - enabling then disabling streamer mode breaks many things
-- ultrawide resolutions have poor counter visibility thanks to being on the side
 - chat covers up health when opened
 - killstreak notification has extra space on the right
 - when using helvetica killername can go outside of its borders
