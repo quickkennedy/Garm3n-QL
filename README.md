@@ -26,6 +26,8 @@ major changes include full linux support as well as a customizable font, but oth
 	- damage number styles
 	- big health player status on match hud
 	- loading screen stats/duel wins toggle
+	- spy outline toggle
+	- centered/old charge meters
 - background from quake live (optional)
 - better loadout playermodel manipulation
 - dark sourcescheme
@@ -33,7 +35,7 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>CHANGES</a>
 ====
-- fully centered meters
+- fully centered meters (optional)
 
 <a>LINKS</a>
 ====
@@ -45,6 +47,7 @@ major changes include full linux support as well as a customizable font, but oth
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
 - more fonts
+- spy disguise image toggle
 
 <a>KNOWN BUGS</a>
 ====
