@@ -1,10 +1,5 @@
 # quakehud
 
-<a>CREDITS</a>
-====
-**Created by:** Garm3n and Hypnotize<br>
-**Fixes and Additions by:** quickkennedy
-
 <a>INFO</a>
 ====
 hi! my name is jack and i really like garm3nhud ql and wanted to improve it.<br>
@@ -29,7 +24,8 @@ major changes include full linux support as well as a customizable font, but oth
 	- spy outline toggle
 	- centered/old charge meters
 - background from quake live (optional)
-- better loadout playermodel manipulation
+- better loadout screen
+- better menu navigation via the keyboard
 - dark sourcescheme
 - full linux support (tested on kubuntu 21.1)
 
@@ -44,17 +40,28 @@ major changes include full linux support as well as a customizable font, but oth
 
 [Changelog](https://github.com/quickkennedy/quakehud/commits/master)
 
+<a>CREDITS</a>
+====
+**Created by:** Garm3n and Hypnotize<br>
+**Things used from:**
+<ul>
+	<li> <b>Hypnotize</b> - m0rehud, garm3nhud, sunset hud, hypnotize hud
+	<li> <b>Eniere</b> - improved default hud
+	<li> <b>Whisker</b> - budhud
+</ul>
+**Repository creator:** quickkennedy
+
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
 - more fonts
 - spy disguise image toggle
+- fixed player destruction hud
 
 <a>KNOWN BUGS</a>
 ====
 - elements are oddly positioned on resolutions like 1920x1080 and 1366x768
 - all of demoman's meters have no labels
 - when you die your health has a chance to stay overhealed or hurt
-- player destruction hud goes over ammo
 - alternate ammo position is broken when using higher clip sizes (for example the snipers SMG)
 - damage account overlaps with healer
 - enabling then disabling streamer mode breaks many things
