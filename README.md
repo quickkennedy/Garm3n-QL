@@ -56,6 +56,8 @@ major changes include full linux support as well as a customizable font, but oth
 - more fonts
 - spy disguise image toggle
 - fixed player destruction hud
+- raised charge meters
+- lowered damage account
 
 <a>KNOWN BUGS</a>
 ====
@@ -63,7 +65,6 @@ major changes include full linux support as well as a customizable font, but oth
 - all of demoman's meters have no labels
 - when you die your health has a chance to stay overhealed or hurt
 - alternate ammo position is broken when using higher clip sizes (for example the snipers SMG)
-- damage account overlaps with healer
 - enabling then disabling streamer mode breaks many things
 - killstreak notification has extra space on the right
 - when payload cart has a red outline it is too big for the payload cart texture
