@@ -37,7 +37,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"c-55"
-		"ypos"					"r111"
+		"ypos"					"r117" //r111
 		"zpos"					"2"
 		"wide"					"111"
 		"tall"					"5"
@@ -98,7 +98,7 @@
 		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
 		"xpos"			"c-55"
-		"ypos"			"r111"
+		"ypos"			"r117" //r111
 		"zpos"			"2"
 		"wide"			"111"
 		"tall"			"5"

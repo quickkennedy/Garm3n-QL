@@ -99,7 +99,7 @@
 		"fieldName"		"ItemEffectMeter2"
 		"font"			"Default"
 		"xpos"			"c+6"
-		"ypos"			"r117"
+		"ypos"			"r123" //r117
 		"zpos"			"2"
 		"wide"			"50"
 		"tall"			"5"				
@@ -119,7 +119,7 @@
 		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
 		"xpos"			"c-55"
-		"ypos"			"r117"
+		"ypos"			"r123" //r117
 		"zpos"			"2"
 		"wide"			"50"
 		"tall"			"5"				
