@@ -162,6 +162,31 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+
+	"CloseKeyboardButton"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"CloseKeyboardButton"
+		"xpos"			"99999"
+		"ypos"			"437"
+		"zpos"			"2"
+		"wide"			"100"
+		"tall"			"25"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"&E"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"0"
+		"Command"		"close"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+	}
 	
 	"NotificationsPresentPanel"
 	{
