@@ -23,6 +23,7 @@ major changes include full linux support as well as a customizable font, but oth
 	- loading screen stats/duel wins toggle
 	- spy outline toggle
 	- centered/old charge meters
+	- sniper scope removal
 - background from quake live (optional)
 - better loadout screen
 - better menu navigation via the keyboard
@@ -58,6 +59,7 @@ major changes include full linux support as well as a customizable font, but oth
 - fixed player destruction hud
 - raised charge meters
 - lowered damage account
+- sniper scope removal
 
 <a>KNOWN BUGS</a>
 ====
