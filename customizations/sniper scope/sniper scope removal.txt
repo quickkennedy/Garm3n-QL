@@ -1,6 +1,6 @@
 /////////////////////////////////////////////INSTRUCTIONS/////////////////////////////////////////////
 //											  	    //
-//   Uncomment the first 2 lines by removing the // to activate the crosshair flashing on damage    //
+//   Uncomment the first line by removing the // to activate the sniper scope removal    //
 //												    //
 /////////////////////////////////////////////CUSTOMIZATION////////////////////////////////////////////
 //												    //
@@ -11,8 +11,7 @@
 //												    //
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
-event DamagedPlayerCrosshair
+event DamagedPlayerScopeRemoval
 {
-    	//Animate "CustomCrosshair"		FgColor     "255 0 0 255"			Linear 	0.0 	0.00001 	// Crosshair color on hit
-   	//Animate "CustomCrosshair"		FgColor     "255 255 255 255"		Linear 	0.10 	0.10001 	// Should match your crosshair color in crosshair.res
+    //RunEvent ScopeRemoval 0.0 //uncomment this line to have the sniper scope removed on hit
 }
