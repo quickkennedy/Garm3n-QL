@@ -152,16 +152,15 @@ event ActiveTimerDim
 	Animate TimePanelValue 				FgColor			"Garm3nHUDWhite"				Linear 	0.0 0.4
 }
 
-event DamagedPlayerCrosshair
+event DamagedPlayer
 {
-    	//Animate "CustomCrosshair"		FgColor     "255 0 0 255"			Linear 	0.0 	0.00001 	// Crosshair color on hit
-   	//Animate "CustomCrosshair"		FgColor     "255 255 255 255"		Linear 	0.10 	0.10001 	// Should match your crosshair color in crosshair.res
+    RunEvent DamagedPlayerCrosshair 0.0
+	RunEvent DamagedPlayerScopeRemoval 0.0
 }
 
 event ScopeRemoval
 {
-	RunEvent DamagedPlayerCrosshair 0.0
-	RunEvent DamagedPlayerScopeRemoval 0.0
+	Animate HudScope Position "9999 9999" Linear 0.0 0.0
 }
 //=============================================================================================================
 
