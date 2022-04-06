@@ -2,13 +2,6 @@
 //											  	    //
 //   Uncomment the first line by removing the // to activate the sniper scope removal    //
 //												    //
-/////////////////////////////////////////////CUSTOMIZATION////////////////////////////////////////////
-//												    //
-// 		   The first fgcolor is the damage flash color (red by default)			    //
-//												    //
-// 			   The second fgcolor is the normal crosshair color! 			    //
-//		   Be sure to set the color to match the one on "Crosshair.res"			    //
-//												    //
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
 event DamagedPlayerScopeRemoval
