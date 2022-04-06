@@ -32,7 +32,12 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>CHANGES</a>
 ====
-- fully centered meters (optional)
+- centered metal
+- darker stickybomb charge meter
+- lowered stickybomb counter
+- moved damageaccount
+- moved targetid
+- moved healer panel
 
 <a>LINKS</a>
 ====
