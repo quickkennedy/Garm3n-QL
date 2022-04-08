@@ -59,12 +59,8 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-- more fonts
-- spy disguise image toggle
-- fixed player destruction hud
-- raised charge meters
-- lowered damage account
-- sniper scope removal
+- fixed match status customizations
+- new default settings for match status
 
 <a>KNOWN BUGS</a>
 ====
