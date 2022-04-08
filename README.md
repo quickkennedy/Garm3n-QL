@@ -61,6 +61,7 @@ major changes include full linux support as well as a customizable font, but oth
 ====
 - fixed match status customizations
 - new default settings for match status
+- close button
 
 <a>KNOWN BUGS</a>
 ====
