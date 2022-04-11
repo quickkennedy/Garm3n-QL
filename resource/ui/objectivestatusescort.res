@@ -216,33 +216,16 @@
 		{
 			"ControlName"							"ImagePanel"
 			"fieldName"								"Speed_Backwards"
-			"xpos"									"23"
-			"ypos"									"53"
-			"zpos"									"2"
-			"wide"									"6"
-			"tall"									"6"
+			"xpos"									"99999"
+			"ypos"									"99999"
+			"zpos"									"0"
+			"wide"									"0"
+			"tall"									"0"
 			"visible"								"0"
 			"enabled"								"1"
 			"labelText"								""
 			"image"									"../hud/cart_arrow_left"
 			"scaleImage"							"1"
-
-			"if_multiple_trains"
-			{
-				"xpos"								"24"
-				"wide"								"5"
-				"tall"								"5"
-			}
-
-			"if_multiple_trains_top"
-			{
-				"ypos"								"51"
-			}
-
-			"if_multiple_trains_bottom"
-			{
-				"ypos"								"84"
-			}
 		}
 
 		"Blocked"
