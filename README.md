@@ -25,6 +25,7 @@ major changes include full linux support as well as a customizable font, but oth
 	- centered/old charge meters
 	- sniper scope removal
 - background from quake live (optional)
+- simple payload progress bar
 - better loadout screen
 - better menu navigation via the keyboard
 - dark sourcescheme
@@ -64,6 +65,7 @@ major changes include full linux support as well as a customizable font, but oth
 - close button
 - combined icons
 - moved down pomson meter
+- payload progess meter (from hypnotize hud)
 
 <a>KNOWN BUGS</a>
 ====
@@ -73,7 +75,6 @@ major changes include full linux support as well as a customizable font, but oth
 - alternate ammo position is broken when using higher clip sizes (for example the snipers SMG)
 - enabling then disabling streamer mode breaks many things
 - killstreak notification has extra space on the right
-- when payload cart has a red outline it is too big for the payload cart texture
 - loadout button overlaps with spectator health
 - overtime label sometimes breaks (still trying to find out why)
 - winpanel icons show up twice sometimes
