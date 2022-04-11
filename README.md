@@ -63,6 +63,7 @@ major changes include full linux support as well as a customizable font, but oth
 - new default settings for match status
 - close button
 - combined icons
+- moved down pomson meter
 
 <a>KNOWN BUGS</a>
 ====
