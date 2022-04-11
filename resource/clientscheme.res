@@ -13,5 +13,6 @@
 //boring non-customizable things
 #base "../resource/clientscheme/basesettings.res"		//"contains settings for app to use to draw controls"
 #base "../resource/clientscheme/fonts.res"				//base fonts
+#base "../resource/clientscheme/symbols.res"			//symbols
 #base "../resource/clientscheme/crosshairs.res"			//the hud crosshair
 #base "../resource/clientscheme/borders.res"			//the borders

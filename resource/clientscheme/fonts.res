@@ -56,82 +56,6 @@ Scheme
 			}
 		}
 		
-		"ClockIcon"
-		{
-			"1"
-			{
-				"name"		"Heydings Icons"
-				"tall"		"22"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
-
-		"StickyIcon"
-		{
-			"1"
-			{
-				"name"		"Mac Dingbats"
-				"tall"		"24"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
-
-		"CounterIcon"
-		{
-			"1"
-			{
-				"name"		"Heydings Icons"
-				"tall"		"20"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
-
-		"FlagIcon"
-		{
-			"1"
-			{
-				"name"		"Heydings Icons"
-				"tall"		"20"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
-
-		"EffectMeterIcon"
-		{
-			"1"
-			{
-				"name"		"Heydings Icons"
-				"tall"		"18"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
-
-		"EffectIcon"
-		{
-			"1"
-			{
-				"name"		"Heydings Icons"
-				"tall"		"20"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
-
-		"PlayerIcon"
-		{
-			"1"
-			{
-				"name"		"Heydings Icons"
-				"tall"		"16"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
 		"DefaultUnderline"
 		{
 			"1"
@@ -944,17 +868,6 @@ Scheme
 			}
 		}
 		
-		Icons
-		{
-			"1"
-			 {
-				"name"  	"Team Fortress" // tf.ttf
-				"tall"  	"28"
-				"weight" 	"0"
-				"additive" 	"1"
-				"antialias" 	"1"
-			}
-		}
 		"BetaFont"
 		{
 			"1"
@@ -2688,16 +2601,6 @@ Scheme
 		{
 			"font" "resource/fonts/boombox2.ttf"
 			"name" "boombox2"
-		}
-		"9"	//Clock, Flag etc... Icons
-		{
-			"font" "resource/fonts/heydings_icons.ttf"
-			"name" "Heydings Icons"
-		}
-		"10" //StickyIcon
-		{
-			"font" "resource/fonts/MAC_DING.TTF"
-			"name" "Mac Dingbats"
 		}
 	}
 }

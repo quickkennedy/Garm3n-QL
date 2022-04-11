@@ -146,7 +146,7 @@
 			"tall"			"34"
 
 			"font"			"StickyIcon"
-			"labelText"		"b"
+			"labelText"		"j"
 			"textAlignment"	"center"	
 		
 			"fgcolor"		"IconGreen" //"0 195 0 255"
@@ -165,7 +165,7 @@
 			"tall"			"34"
 
 			"font"			"StickyIcon"
-			"labelText"		"b"
+			"labelText"		"j"
 			"textAlignment"	"center"	
 		
 			"fgcolor"		"IconShadow"
@@ -260,7 +260,7 @@
 			"tall"			"34"
 
 			"font"			"StickyIcon"
-			"labelText"		"b"
+			"labelText"		"j"
 			"textAlignment"	"center"	
 		
 			"fgcolor"		"IconGreen" //"0 195 0 255"
@@ -279,7 +279,7 @@
 			"tall"			"34"
 
 			"font"			"StickyIcon"
-			"labelText"		"b"
+			"labelText"		"j"
 			"textAlignment"	"center"	
 		
 			"fgcolor"		"IconShadow"
