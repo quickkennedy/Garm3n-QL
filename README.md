@@ -67,6 +67,15 @@ major changes include full linux support as well as a customizable font, but oth
 - moved down pomson meter
 - payload progess meter (from hypnotize hud)
 
+<a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
+====
+- fixed match status customizations
+- new default settings for match status
+- close button
+- combined icons
+- moved down pomson meter
+- payload progess meter (from hypnotize hud)
+
 <a>KNOWN BUGS</a>
 ====
 - elements are oddly positioned on resolutions like 1920x1080 and 1366x768
