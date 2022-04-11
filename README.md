@@ -25,7 +25,6 @@ major changes include full linux support as well as a customizable font, but oth
 	- centered/old charge meters
 	- sniper scope removal
 - background from quake live (optional)
-- simple payload progress bar
 - better loadout screen
 - better menu navigation via the keyboard
 - dark sourcescheme
@@ -39,6 +38,7 @@ major changes include full linux support as well as a customizable font, but oth
 - moved damageaccount
 - moved targetid
 - moved healer panel
+- simple payload progress bar from hypnotize hud
 
 <a>LINKS</a>
 ====
