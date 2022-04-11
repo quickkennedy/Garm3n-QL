@@ -425,7 +425,7 @@ Scheme
 	{
 		"7"	//Main Font
 		{
-			"font" "resource/fonts/alternate fonts/surface_medium.otf"
+			"font" "resource/fonts/alternate fonts/surface.otf"
 			"name" "Surface"
 		}
 	}

@@ -425,7 +425,7 @@ Scheme
 	{
 		"7"	//Main Font
 		{
-			"font" "resource/fonts/alternate fonts/HANDGOTN.TTF"
+			"font" "resource/fonts/alternate fonts/handelgothic.ttf"
 			"name" "HandelGothic BT"
 		}
 	}
