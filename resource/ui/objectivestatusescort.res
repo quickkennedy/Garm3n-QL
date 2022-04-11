@@ -215,20 +215,34 @@
 		"Speed_Backwards"
 		{
 			"ControlName"							"ImagePanel"
-			"fieldName"								"Speed_Backwards"	
-			"xpos"									"134"
-			"ypos"									"1"
-			"zpos"									"30"
+			"fieldName"								"Speed_Backwards"
+			"xpos"									"23"
+			"ypos"									"53"
+			"zpos"									"2"
 			"wide"									"6"
 			"tall"									"6"
-			"autoResize"							"0"
-			"pinCorner"								"0"
-			"visible"								"1"
+			"visible"								"0"
 			"enabled"								"1"
-			"tabPosition"							"0"
-			"labelText"								"<"
-			"image"									""
-			"scaleImage"							"0"
+			"labelText"								""
+			"image"									"../hud/cart_arrow_left"
+			"scaleImage"							"1"
+
+			"if_multiple_trains"
+			{
+				"xpos"								"24"
+				"wide"								"5"
+				"tall"								"5"
+			}
+
+			"if_multiple_trains_top"
+			{
+				"ypos"								"51"
+			}
+
+			"if_multiple_trains_bottom"
+			{
+				"ypos"								"84"
+			}
 		}
 
 		"Blocked"
