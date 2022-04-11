@@ -72,3 +72,5 @@ major changes include full linux support as well as a customizable font, but oth
 - enabling then disabling streamer mode breaks many things
 - killstreak notification has extra space on the right
 - when payload cart has a red outline it is too big for the payload cart texture
+- loadout button overlaps with spectator health
+- overtime label sometimes breaks (still trying to find out why)
