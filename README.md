@@ -87,4 +87,4 @@ major changes include full linux support as well as a customizable font, but oth
 - loadout button overlaps with spectator health
 - overtime label sometimes breaks (still trying to find out why)
 - winpanel icons show up twice sometimes
-- multiple elements overlap with damageaccount
+- payload race elements overlap with damageaccount
