@@ -1,1 +1,1 @@
-drag the materials folder from your selected option into quakehuds base folder (:
+drag the materials and scripts folder from your selected option into quakehuds base folder (:
