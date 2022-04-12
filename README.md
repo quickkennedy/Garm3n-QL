@@ -24,9 +24,11 @@ major changes include full linux support as well as a customizable font, but oth
 	- spy outline toggle
 	- centered/old charge meters
 	- sniper scope removal
+	- health account toggle
 - background from quake live (optional)
 - better loadout screen
 - better menu navigation via the keyboard
+- better ready up menu
 - dark sourcescheme
 - full linux support (tested on kubuntu 21.1)
 
@@ -70,6 +72,7 @@ major changes include full linux support as well as a customizable font, but oth
 - renamed font files
 - removed an unused file
 - better ready up menu
+- health account customization
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -83,6 +86,7 @@ major changes include full linux support as well as a customizable font, but oth
 - renamed font files
 - removed an unused file
 - better ready up menu
+- health account customization
 
 <a>KNOWN BUGS</a>
 ====
