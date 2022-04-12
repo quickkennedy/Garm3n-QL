@@ -124,7 +124,7 @@
 				"PaintBackgroundType"	"1"
 				"paintborder"	"1"
 				"border"		"TFThinLineBorder"
-				"image"			"../vgui/replay/thumbnails/blank"
+				"image"			"/replay/thumbnails/blank"
 
 				"src_corner_height"	"22"				// pixels inside the image
 				"src_corner_width"	"22"
