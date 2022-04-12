@@ -66,6 +66,8 @@ major changes include full linux support as well as a customizable font, but oth
 - combined icons
 - moved down pomson meter
 - payload progess meter (from hypnotize hud)
+- lowercase files
+- renamed font files
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -75,6 +77,8 @@ major changes include full linux support as well as a customizable font, but oth
 - combined icons
 - moved down pomson meter
 - payload progess meter (from hypnotize hud)
+- lowercase files
+- renamed font files
 
 <a>KNOWN BUGS</a>
 ====
