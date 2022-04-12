@@ -46,6 +46,10 @@ Scheme
 		"Garm3nHUDMedicCharge"		"0 175 255 255"
 		"Garm3nHUDMedicCharge2"		"0 155 255 255"
 
+		"Shadow"					"15 15 15 140"
+		"ShadowSolid"				"15 15 15 255"
+		"REPLACEME"					"0 255 0 255"
+
 		//these are unused garm3nhud colors, used nowhere in the hud
 		//"Garm3nHUDxHair"			"0 255 0 255" 		//UNUSED
 		//"Garm3nHUDBlack"			"0 0 0 255" 		//UNUSED
