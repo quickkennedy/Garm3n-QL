@@ -334,9 +334,10 @@ Scheme
 		TFFatLineBorder
 		{
 			"bordertype"			"scalable_image"
-			"color"					"Shadow"
-			"image"					"white"
-			//"image"					"../hud/color_panel_brown"
+			"backgroundtype"		"2"
+
+			"image"					"../hud/tournament_panel_brown"
+			//"image"					"../hud/color_panel_browner"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
@@ -345,9 +346,9 @@ Scheme
 		TFFatLineBorderRedBGOpaque
 		{
 			"bordertype"			"scalable_image"
-			"color"					"RedSolid"
-			"image"					"white"
-			//"image"					"../hud/color_panel_red_opaque"
+			"backgroundtype"		"2"
+
+			"image"					"../hud/color_panel_brown_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
