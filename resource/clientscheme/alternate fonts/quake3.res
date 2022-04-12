@@ -425,7 +425,7 @@ Scheme
 	{
 		"7"	//Main Font
 		{
-			"font" "resource/fonts/alternate fonts/Q3Numbers.ttf"
+			"font" "resource/fonts/alternate fonts/quake3.ttf"
 			"name" "Q3Numbers"
 		}
 	}

@@ -425,7 +425,7 @@ Scheme
 	{
 		"7"	//Main Font
 		{
-			"font" "resource/fonts/alternate fonts/HelveticaNeueLT-BoldExt.otf"
+			"font" "resource/fonts/alternate fonts/helvetica.otf"
 			"name" "Helvetica Neue LT"
 		}
 	}
