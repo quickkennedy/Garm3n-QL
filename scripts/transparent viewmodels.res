@@ -11,7 +11,7 @@
 		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
-		"image"										"replay/thumbnails/REFRACTnormal_transparent"
+		"image"										"replay/thumbnails/viewmodel_transparent"
 		"scaleImage"								"1"
 	}
 }
