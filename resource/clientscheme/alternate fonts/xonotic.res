@@ -425,7 +425,7 @@ Scheme
 	{
 		"7"	//Main Font
 		{
-			"font" "resource/fonts/alternate fonts/xolonium-bold.otf"
+			"font" "resource/fonts/alternate fonts/xolonium.otf"
 			"name" "Xolonium GPL"
 		}
 	}
