@@ -73,6 +73,7 @@ major changes include full linux support as well as a customizable font, but oth
 - removed an unused file
 - better ready up menu
 - health account customization
+- fixed mistake with instructions
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -87,6 +88,7 @@ major changes include full linux support as well as a customizable font, but oth
 - removed an unused file
 - better ready up menu
 - health account customization
+- fixed mistake with instructions
 
 <a>KNOWN BUGS</a>
 ====
