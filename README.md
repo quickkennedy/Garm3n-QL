@@ -69,6 +69,7 @@ major changes include full linux support as well as a customizable font, but oth
 - lowercase files
 - renamed font files
 - removed an unused file
+- better ready up menu
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -81,6 +82,7 @@ major changes include full linux support as well as a customizable font, but oth
 - lowercase files
 - renamed font files
 - removed an unused file
+- better ready up menu
 
 <a>KNOWN BUGS</a>
 ====
