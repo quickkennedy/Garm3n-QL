@@ -311,7 +311,7 @@ Scheme
 		TFThinLineBorder
 		{
 			"bordertype"			"scalable_image"
-			"color"					"REPLACEME"
+			"color"					"Shadow"
 			"image"					"white"
 			//"image"					"../hud/tournament_panel_brown"
 			//"image"					"../hud/color_panel_browner"
@@ -356,9 +356,9 @@ Scheme
 		TFFatLineBorderRedBGOpaque_Store
 		{
 			"bordertype"			"scalable_image"
-			"color"					"RedSolid"
-			"image"					"white"
-			//"image"					"../hud/color_panel_red_opaque"
+			"backgroundtype"		"2"
+
+			"image"					"../hud/color_panel_red_opaque"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
