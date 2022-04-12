@@ -550,7 +550,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
-		"font"			"TFFontSmall"
+		"font"			"Garm3nFontTargetSmallest"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"			"c-125"
 		"ypos"			"24"
@@ -577,7 +577,7 @@
 		}
 		if_mvm
 		{
-			"font"		"HudFontSmallishBold"
+			"font"		"Garm3nFontSmall"
 			"zpos"		"5"
 			"ypos"		"120"
 			"tall"		"20"
@@ -588,7 +588,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentInstructionsLabelShadow"
-		"font"			"TFFontSmall"
+		"font"			"Garm3nFontTargetSmallest"
 		"xpos"			"c-125"
 		"ypos"			"74"
 		"wide"			"250"
@@ -612,7 +612,7 @@
 		}
 		if_mvm
 		{
-			"font"		"HudFontSmallishBold"
+			"font"		"Garm3nFontSmall"
 			"xpos"		"c-124"
 			"ypos"		"121"
 			"tall"		"20"
