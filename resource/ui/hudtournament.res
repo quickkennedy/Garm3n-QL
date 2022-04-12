@@ -123,7 +123,7 @@
 				"enabled"		"1"
 				"PaintBackgroundType"	"1"
 				"paintborder"	"1"
-				"border"		"TFThinLineBorder"
+				"border"		"Garm3nShadow"
 				"image"			"/replay/thumbnails/blank"
 
 				"src_corner_height"	"22"				// pixels inside the image

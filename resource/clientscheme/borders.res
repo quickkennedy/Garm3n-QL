@@ -6,6 +6,19 @@ Scheme
 	// describes all the border types
 	Borders
 	{
+		Garm3nShadow
+		{
+			"bordertype"			"scalable_image"
+			"color"					"Shadow"
+			"image"					"white"
+			//"image"					"../hud/tournament_panel_brown"
+			//"image"					"../hud/color_panel_browner"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"
+		}
+
 		NoBorder
 		{
 			"inset" "0 0 0 0"
@@ -311,21 +324,22 @@ Scheme
 		TFThinLineBorder
 		{
 			"bordertype"			"scalable_image"
-			"color"					"Shadow"
-			"image"					"white"
-			//"image"					"../hud/tournament_panel_brown"
+			"backgroundtype"		"2"
+
+			"image"					"../hud/tournament_panel_brown"
 			//"image"					"../hud/color_panel_browner"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"8"	
+			"draw_corner_height" 	"8"
 		}
+
 		TFFatLineBorderOpaque
 		{
 			"bordertype"			"scalable_image"
-			"color"					"ShadowSolid"
-			"image"					"white"
-			//"image"					"../hud/color_panel_brown_opaque"
+			"backgroundtype"		"2"
+
+			"image"					"../hud/color_panel_brown_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
