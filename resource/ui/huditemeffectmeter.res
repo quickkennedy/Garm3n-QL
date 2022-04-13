@@ -53,45 +53,6 @@
 		"font"					"TFFontSmall"
 	}
 
-	EffectMeterIcon
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"EffectMeterIcon"
-		"visible"		"0"
-		"enabled"		"1"
-		"zpos"			"2"
-
-		"xpos"			"0"
-		"ypos"			"r318"
-		"wide"			"35"
-		"tall"			"36"
-
-		"font"			"EffectMeterIcon"
-		"labelText"		"4"
-		"textAlignment"	"center"	
-		
-		"fgcolor"		"IconOrange"
-	}
-	EffectMeterIconShadow
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"EffectMeterIconShadow"
-		"visible"		"0"
-		"enabled"		"1"
-		"zpos"			"1"
-
-		"xpos"			"1"
-		"ypos"			"r317"
-		"wide"			"35"
-		"tall"			"36"
-
-		"font"			"EffectMeterIcon"
-		"labelText"		"4"
-		"textAlignment"	"center"	
-		
-		"fgcolor"		"IconShadow"
-	}
-
 	"ItemEffectMeter"
 	{	
 		"ControlName"	"ContinuousProgressBar"
