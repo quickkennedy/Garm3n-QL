@@ -81,13 +81,7 @@ all caught up (:
 
 <a>KNOWN BUGS</a>
 ====
-- elements are oddly positioned on resolutions like 1920x1080 and 1366x768
-- all of demoman's meters have no labels
-- when you die your health has a chance to stay overhealed or hurt
 - alternate ammo position is broken when using higher clip sizes (for example the snipers SMG)
 - enabling then disabling streamer mode breaks many things
-- killstreak notification has extra space on the right
 - loadout button overlaps with spectator health
-- overtime label sometimes breaks (still trying to find out why)
-- winpanel icons show up twice sometimes
 - payload race elements overlap with damageaccount
