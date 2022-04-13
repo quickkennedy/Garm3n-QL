@@ -43,10 +43,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"xpos"	"c93-20"
+		"xpos"	"c93"
 		"ypos"	"r106"
 		"zpos"			"5"
-		"wide"	"170"
+		"wide"	"170" 
 		"tall"	"42" 
 		"autoResize"	"1"
 		"pinCorner"		"2"
