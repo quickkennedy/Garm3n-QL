@@ -62,7 +62,7 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-all caught up (:
+- fixed charge meter labels
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -78,6 +78,7 @@ all caught up (:
 - better ready up menu
 - health account customization
 - fixed mistake with instructions
+- fixed charge meter labels
 
 <a>KNOWN BUGS</a>
 ====
