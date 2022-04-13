@@ -63,6 +63,7 @@ major changes include full linux support as well as a customizable font, but oth
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
 - fixed charge meter labels
+- point countdown now uses chosen font
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -79,6 +80,7 @@ major changes include full linux support as well as a customizable font, but oth
 - health account customization
 - fixed mistake with instructions
 - fixed charge meter labels
+- point countdown now uses chosen font
 
 <a>KNOWN BUGS</a>
 ====
