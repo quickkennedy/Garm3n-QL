@@ -64,6 +64,7 @@ major changes include full linux support as well as a customizable font, but oth
 ====
 - fixed charge meter labels
 - point countdown now uses chosen font
+- fixed health and ammo alignment
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -81,6 +82,7 @@ major changes include full linux support as well as a customizable font, but oth
 - fixed mistake with instructions
 - fixed charge meter labels
 - point countdown now uses chosen font
+- fixed health and ammo alignment
 
 <a>KNOWN BUGS</a>
 ====
