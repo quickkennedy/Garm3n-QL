@@ -62,18 +62,7 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-- fixed match status customizations
-- new default settings for match status
-- close button
-- combined icons
-- moved down pomson meter
-- payload progess meter (from hypnotize hud)
-- lowercase files
-- renamed font files
-- removed an unused file
-- better ready up menu
-- health account customization
-- fixed mistake with instructions
+all caught up (:
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
