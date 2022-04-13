@@ -60,6 +60,10 @@ major changes include full linux support as well as a customizable font, but oth
 </ul>
 <b>Repository creator:</b> quickkennedy
 
+<a>UPDATE INFO</a>
+====
+here i've listed the updates that need to happen for each site the hud is on. this is because these platforms put my hud to the front page when i update, meaning its only ideal to update every once in a while rather than frequently. i will update gamebanana more than huds.tf, saving huds.tf updates for rare ocasions.
+
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
 - fixed charge meter labels
