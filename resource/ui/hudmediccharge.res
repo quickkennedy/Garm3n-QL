@@ -43,7 +43,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"xpos"	"c93-20"
+		"xpos"	"cs-0.5+122+24"
 		"ypos"	"r106"
 		"zpos"			"5"
 		"wide"	"170"

@@ -60,7 +60,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"c-232"
+		"xpos"			"cs-0.5-122-24"//"c-232+40"
 		"ypos"			"r106"	
 		"zpos"			"5"
 		"wide"			"140"
@@ -68,7 +68,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"east"	
+		"textAlignment"	"east"
 		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDWhite"
 	}
@@ -76,7 +76,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"c-231"
+		"xpos"			"cs-0.5-121-24"//"c-231+40"
 		"ypos"			"r105"	
 		"zpos"			"4"
 		"wide"			"140"
@@ -84,7 +84,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"east"	
+		"textAlignment"	"east"
 		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 	}
