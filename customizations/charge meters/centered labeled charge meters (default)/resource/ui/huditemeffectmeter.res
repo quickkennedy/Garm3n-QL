@@ -18,7 +18,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"c-55"
-		"ypos"					"r123" //r117
+		"ypos"					"r117" //r117
 		"zpos"					"2"
 		"wide"					"111"
 		"tall"					"5"
@@ -33,7 +33,6 @@
 		"brighttext"			"0"
 		"font"					"Garm3nFontTiniest"
 		"fgcolor_override"		"150 150 150 255"
-
 	}
 
 	"ItemEffectMeter"
@@ -42,7 +41,7 @@
 		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
 		"xpos"			"c-55"
-		"ypos"			"r123" //r117
+		"ypos"			"r117" //r117
 		"zpos"			"2"
 		"wide"			"111"
 		"tall"			"5"				
