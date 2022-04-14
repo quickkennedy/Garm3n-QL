@@ -1,0 +1,1 @@
+because this hud has to support multiple resolutions, i need to include this folder. most folks on modern resolutions will be fine, but """""legacy""""" resolutions may need this folder. if you experience issues that could be described by the names of the subfolders, try looking in the subfolders for more information.
