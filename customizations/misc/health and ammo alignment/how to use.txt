@@ -1,1 +1,0 @@
-drag the resource folder from your selected option into quakehuds base folder (:

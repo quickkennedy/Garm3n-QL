@@ -1,0 +1,1 @@
+if your health and ammo shadows seem to be differently positioned, switch from the current alignment you are using. at 1920x1080, "classic" will work, but at any smaller resolution you may want to use "centered". to use, drag the resource folder from your selected option into quakehuds base folder.
