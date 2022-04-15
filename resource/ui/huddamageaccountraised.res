@@ -2,11 +2,11 @@
 {
 	"DamageAccountValue"
 	{
-		"ypos"			"r151"
+		"ypos"			"r131"
 	}
 
 	"DamageAccountValueShadow"
 	{
-		"ypos"			"r150"
+		"ypos"			"r130"
 	}
 }
