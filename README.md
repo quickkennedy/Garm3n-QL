@@ -71,6 +71,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - point countdown now uses chosen font
 - fixed health and ammo alignment
 - darker match hud
+- lowered raised damage account
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -90,6 +91,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - point countdown now uses chosen font
 - fixed health and ammo alignment
 - darker match hud
+- lowered raised damage account
 
 <a>KNOWN BUGS</a>
 ====
