@@ -349,8 +349,8 @@
 			"tall"			"50"
 			"zpos"			"1"
 
-			"color_portrait_bg_red"	"Garm3nHUDRed"
-			"color_portrait_bg_blue"	"Garm3nHUDBlue"
+			"color_portrait_bg_red"	"Red"
+			"color_portrait_bg_blue"	"Blue"
 			"color_portrait_bg_red_dead"	"79 54 52 255"
 			"color_portrait_bg_blue_dead"	"44 49 51 255"
 			"color_bar_health_high"	"84 191 58 255"

@@ -41,6 +41,7 @@ major changes include full linux support as well as a customizable font, but oth
 - moved targetid
 - moved healer panel
 - simple payload progress bar from hypnotize hud
+- darker match hud
 
 <a>LINKS</a>
 ====
@@ -69,6 +70,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - fixed charge meter labels
 - point countdown now uses chosen font
 - fixed health and ammo alignment
+- darker match hud
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -87,6 +89,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - fixed charge meter labels
 - point countdown now uses chosen font
 - fixed health and ammo alignment
+- darker match hud
 
 <a>KNOWN BUGS</a>
 ====
