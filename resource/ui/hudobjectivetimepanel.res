@@ -150,13 +150,13 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
-		"font"			"ChatFont"
+		"font"			"Garm3nFontTinierShadow"
 		"fgcolor"		"Garm3nHUDWhite"
-		
+
 		if_match
 		{
-			"xpos"			"70"
-			"ypos"			"50"
+			"xpos"			"30"
+			"ypos"			"27"
 			"textAlignment"	"center"
 		}
 	}			
