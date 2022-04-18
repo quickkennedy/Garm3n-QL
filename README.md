@@ -80,6 +80,7 @@ all caught up (:
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
 - added support for mvm charge meters
+- added overtime label customization
 - improved overtime label
 - darker match hud
 - reverted new ready up borders
