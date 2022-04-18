@@ -74,6 +74,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - improved overtime label
 - fixed class selection bug
 - fixed meters using wrong font
+- fixed a spelling mistake
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -82,6 +83,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - improved overtime label
 - fixed class selection bug
 - fixed meters using wrong font
+- fixed a spelling mistake
 
 <a>KNOWN BUGS</a>
 ====
