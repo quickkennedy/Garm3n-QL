@@ -156,7 +156,7 @@
 		if_match
 		{
 			"xpos"			"30"
-			"ypos"			"27"
+			"ypos"			"45" //27
 			"textAlignment"	"center"
 		}
 	}			
