@@ -4,7 +4,7 @@
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"HudTournament"
-		
+
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
@@ -19,7 +19,7 @@
 		"team2_player_delta_x"				"48"
 		"team2_player_delta_y"				"18"
 		"teams_player_delta_x_comp"			"48"
-		
+
 		if_competitive
 		{
 			"team1_player_base_y"			"45"
@@ -32,17 +32,17 @@
 		{
 			"team1_player_base_y"			"80"
 		}
-		
+
 		"playerpanels_kv"
 		{
 			"visible"		"0"
 			"wide"			"50"
 			"tall"			"33"
 			"zpos"			"1"
-			
+
 			"color_ready"	"0 255 0 220"
 			"color_notready"	"0 0 0 220"
-			
+
 			"playername"
 			{
 				"ControlName"	"CExLabel"
@@ -59,7 +59,7 @@
 				"labelText"		"%playername%"
 				"textAlignment"	"north-west"
 			}
-			
+
 			"classimage"
 			{
 				"ControlName"	"CTFClassImage"
@@ -72,9 +72,9 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../hud/class_scoutred"
-				"scaleImage"	"1"	
+				"scaleImage"	"1"
 			}
-			
+
 			"classimagebg"
 			{
 				"ControlName"	"Panel"
@@ -89,7 +89,7 @@
 				"bgcolor_override"		"Black"
 				"PaintBackgroundType"	"0"
 			}
-			
+
 			"HealthIcon"
 			{
 				"ControlName"		"EditablePanel"
@@ -100,14 +100,14 @@
 				"wide"				"0"
 				"tall"				"0"
 				"visible"			"1"
-				"enabled"			"1"	
+				"enabled"			"1"
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TextColor"					"HudOffWhite"
 			}
-			
+
 			"ReadyBG"
 			{
 				"ControlName"		"ScalableImagePanel"
@@ -121,18 +121,15 @@
 				"pinCorner"		"0"
 				"visible"		"0"
 				"enabled"		"1"
-				"PaintBackgroundType"	"1"
-				"paintborder"	"1"
-				"border"		"Garm3nShadow"
-				"image"			"/replay/thumbnails/blank"
+				"image"			"../HUD/tournament_panel_brown"
 
 				"src_corner_height"	"22"				// pixels inside the image
 				"src_corner_width"	"22"
-			
+
 				"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
 				"draw_corner_height" 	"3"
 			}
-			
+
 			"ReadyImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -149,7 +146,7 @@
 				"image"			"hud/checkmark"
 				"scaleImage"	"1"
 			}
-			
+
 			"respawntime"
 			{
 				"ControlName"	"CExLabel"
@@ -166,7 +163,7 @@
 				"labelText"		"%respawntime%"
 				"textAlignment"	"west"
 			}
-			
+
 			"chargeamount"
 			{
 				"ControlName"	"CExLabel"
@@ -184,7 +181,7 @@
 				"textAlignment"	"north"
 				"fgcolor"		"0 255 0 255"
 			}
-			
+
 			"specindex"
 			{
 				"ControlName"	"CExLabel"
@@ -201,7 +198,7 @@
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
 			}
-		}	
+		}
 	}
 
 	"HudTournamentBG"
@@ -222,10 +219,10 @@
 
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
-		
+
 		"draw_corner_width"	"8"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"8"	
-		
+		"draw_corner_height" 	"8"
+
 		if_competitive
 		{
 			"visible"	"0"
@@ -234,7 +231,7 @@
 		{
 			"visible"	"0"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
@@ -242,7 +239,7 @@
 
 	}
 	"TournamentLabel"
-	{	
+	{
 		"ControlName"		"Label"
 		"fieldName"		"TournamentLabel"
 		"font"			"HudFontSmall"
@@ -258,7 +255,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"north-west"
-		
+
 		if_competitive
 		{
 			"visible"	"0"
@@ -267,7 +264,7 @@
 		{
 			"visible"	"0"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
@@ -291,7 +288,7 @@
 
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
-		
+
 		"draw_corner_width"	"4"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"4"
 
@@ -303,14 +300,14 @@
 		{
 			"visible"	"0"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
 		}
 	}
 	"TournamentBLUELabel"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentBLUELabel"
 		"font"			"Garm3nFontTinyShadow"
@@ -328,7 +325,7 @@
 		"labelText"		"%bluenamelabel%"
 		"textAlignment"		"east"
 
-		
+
 		if_competitive
 		{
 			"visible"	"0"
@@ -337,14 +334,14 @@
 		{
 			"visible"	"0"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
 		}
 	}
 	"TournamentBLUEStateLabel"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentBLUEStateLabel"
 		"font"			"Garm3nFontTargetSmallestShadow"
@@ -370,7 +367,7 @@
 		{
 			"visible"	"0"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
@@ -393,7 +390,7 @@
 
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
-		
+
 		"draw_corner_width"	"4"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"4"
 
@@ -405,14 +402,14 @@
 		{
 			"visible"	"0"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
-		}	
+		}
 	}
 	"TournamentREDLabel"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentREDLabel"
 		"font"			"Garm3nFontTinyShadow"
@@ -438,14 +435,14 @@
 		{
 			"visible"	"0"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
 		}
 	}
 	"TournamentREDStateLabel"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentREDStateLabel"
 		"font"			"Garm3nFontTargetSmallestShadow"
@@ -471,14 +468,14 @@
 		{
 			"visible"	"0"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
 		}
 	}
 	"TournamentConditionLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
 		"font"			"TFFontSmall"
@@ -495,7 +492,7 @@
 		"wrap"			"0"
 		"labelText"		"%winconditions%"
 		"textAlignment"	"center"
-		
+
 		if_competitive
 		{
 			"ypos"		"20"
@@ -528,7 +525,7 @@
 
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
-		
+
 		"draw_corner_width"	"8"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"8"
 
@@ -540,14 +537,14 @@
 		{
 			"visible"	"0"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
-		}	
+		}
 	}
 	"TournamentInstructionsLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
 		"font"			"Garm3nFontTargetSmallest"
@@ -583,9 +580,9 @@
 			"tall"		"20"
 		}
 	}
-	
-	"TournamentInstructionsLabelShadow"
-	{	
+
+	"TournamentInstructionsLabelShadow"font
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentInstructionsLabelShadow"
 		"font"			"Garm3nFontTargetSmallest"
@@ -601,7 +598,7 @@
 		"wrap"			"0"
 		"labelText"		"%readylabel%"
 		"textAlignment"	"center"
-		
+
 		if_competitive
 		{
 			"visible"	"0"
@@ -620,7 +617,7 @@
 			"visible"	"1"
 		}
 	}
-	
+
 	"CountdownBG"
 	{
 		"ControlName"		"ScalableImagePanel"
@@ -638,13 +635,13 @@
 
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
-		
+
 		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
+		"draw_corner_height" 	"5"
 	}
 
 	"CountdownLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountdownLabel"
 		"font"			"Garm3nFontSmall"
@@ -662,9 +659,9 @@
 		"textAlignment"	"center"
 		"fgcolor"		"255 255 255 255"
 	}
-	
+
 	"CountdownLabelShadow"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
 		"font"			"Garm3nFontSmall"
