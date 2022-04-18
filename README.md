@@ -48,6 +48,7 @@ major changes include full linux support as well as a customizable font, but oth
 - moved targetid
 - moved healer panel
 - simple payload progress bar from hypnotize hud
+- darker match hud
 
 <a>LINKS</a>
 ====
