@@ -75,6 +75,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - fixed class selection bug
 - fixed meters using wrong font
 - fixed a spelling mistake
+- added support for mvm charge meters
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -84,6 +85,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - fixed class selection bug
 - fixed meters using wrong font
 - fixed a spelling mistake
+- added support for mvm charge meters
 
 <a>KNOWN BUGS</a>
 ====

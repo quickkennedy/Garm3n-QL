@@ -55,7 +55,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"ChatFont"
+		"font"			"Garm3nFontTiny"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"			"15"
 		"ypos"			"90"
@@ -76,7 +76,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"ChatFont"
+		"font"			"Garm3nFontTiny"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"			"15"
 		"ypos"			"90"

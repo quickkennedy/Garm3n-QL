@@ -353,7 +353,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"ChatFont"
+		"font"			"Garm3nFontTiny"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"			"130"
 		"ypos"			"124"
@@ -390,7 +390,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"ChatFont"
+		"font"			"Garm3nFontTiny"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"			"226"
 		"ypos"			"124"
@@ -427,7 +427,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"ChatFont"
+		"font"			"Garm3nFontTiny"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"			"322"
 		"ypos"			"124"
