@@ -2,7 +2,7 @@
 
 <a>INFO</a>
 ====
-hi! my name is jack and i really like garm3nhud ql and wanted to improve it.<br>
+hi! my name is kennedy and i really like garm3nhud ql and wanted to improve it.<br>
 here is a version of garm3nhud ql that is more towards the way i like huds to be, using fixes that hypnotize has put into some of their other updated huds.<br>
 i hope to at some point do enough improvements to this hud to release it as my own hud and/or put these improvements into garm3nhud ql's repository.<br>
 the changes would most likely not be put into the garm3nhud ql repository as they are changes that alter how the hud looks normally.<br>
