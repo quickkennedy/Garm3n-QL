@@ -72,12 +72,14 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - darker match hud
 - reverted new ready up borders
 - improved overtime label
+- fixed class selection bug
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
 - darker match hud
 - reverted new ready up borders
 - improved overtime label
+- fixed class selection bug
 
 <a>KNOWN BUGS</a>
 ====
