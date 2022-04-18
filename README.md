@@ -34,6 +34,9 @@ major changes include full linux support as well as a customizable font, but oth
 
 <a>CHANGES</a>
 ====
+- bugfixes
+	- fixed health and ammo alignment
+	- fixed class selection menu
 - centered metal
 - darker stickybomb charge meter
 - lowered stickybomb counter
