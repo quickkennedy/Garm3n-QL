@@ -37,6 +37,10 @@ major changes include full linux support as well as a customizable font, but oth
 - bugfixes
 	- fixed health and ammo alignment
 	- fixed class selection menu
+- less tf2 fonts
+	- disguise menu uses quake font
+	- point countdown now uses correct font
+	- overtime, setup, etc labels use correct font
 - centered metal
 - darker stickybomb charge meter
 - lowered stickybomb counter
