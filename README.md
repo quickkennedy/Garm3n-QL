@@ -69,10 +69,11 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - fixed charge meter labels
 - point countdown now uses chosen font
 - fixed health and ammo alignment
+- darker match hud
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
-all caught up (:
+- darker match hud
 
 <a>KNOWN BUGS</a>
 ====
