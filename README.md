@@ -71,11 +71,13 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - fixed health and ammo alignment
 - darker match hud
 - reverted new ready up borders
+- improved overtime label
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
 - darker match hud
 - reverted new ready up borders
+- improved overtime label
 
 <a>KNOWN BUGS</a>
 ====
@@ -83,3 +85,4 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - enabling then disabling streamer mode breaks many things
 - loadout button overlaps with spectator health
 - payload race elements overlap with damageaccount
+- transparent viewmodels break class selection screen
