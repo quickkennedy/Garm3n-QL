@@ -1312,7 +1312,7 @@
 		
 		"xpos"			"c-300"
 		"ypos"			"r500"
-		"zpos"			"6"		
+		"zpos"			"6"
 		"wide"			"600"
 		"tall"			"480"
 		
@@ -1321,12 +1321,13 @@
 		"visible"		"1"
 		"enabled"		"1"
 		
+		"render_texture" "0"
 		"fov"			"25"
 		"allow_rot"		"0"
 
-		"paintbackground" "1"		
-		"paintbackgroundenabled" "1"
-		"bgcolor_override" "255 255 255 0"
+		"paintbackground"	"0"
+		"paintbackgroundenabled" "0"
+		"bgcolor_override"	"Blank"
 		
 		"model"
 		{
