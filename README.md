@@ -97,4 +97,3 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - enabling then disabling streamer mode breaks many things
 - loadout button overlaps with spectator health
 - payload race elements overlap with damageaccount
-- transparent viewmodels break class selection screen
