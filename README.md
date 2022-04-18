@@ -25,6 +25,7 @@ major changes include full linux support as well as a customizable font, but oth
 	- centered/old charge meters
 	- sniper scope removal
 	- health account toggle
+	- overtime, warmup, setup, etc label toggle
 - background from quake live (optional)
 - better loadout screen
 - better menu navigation via the keyboard
@@ -74,18 +75,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-- added support for mvm charge meters
-- improved overtime label
-- point countdown now uses chosen font
-- darker match hud
-- fixed health and ammo alignment
-- reverted new ready up borders
-- fixed charge meter labels
-- fixed class selection bug
-- fixed meters using wrong font
-- fixed a spelling mistake
-- fixed disguise menu to use correct fonts
-- fixed health value shadow being positioned oddly at different resolutions
+all caught up (:
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
