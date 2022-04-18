@@ -72,21 +72,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
-- fixed match status customizations
-- new default settings for match status
-- close button
-- combined icons
-- moved down pomson meter
-- payload progess meter (from hypnotize hud)
-- lowercase files
-- renamed font files
-- removed an unused file
-- better ready up menu
-- health account customization
-- fixed mistake with instructions
-- fixed charge meter labels
-- point countdown now uses chosen font
-- fixed health and ammo alignment
+all caught up (:
 
 <a>KNOWN BUGS</a>
 ====
