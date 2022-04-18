@@ -76,6 +76,8 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - fixed meters using wrong font
 - fixed a spelling mistake
 - added support for mvm charge meters
+- fixed disguise menu to use correct fonts
+- fixed health value shadow being positioned oddly at different resolutions
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -86,6 +88,8 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - fixed meters using wrong font
 - fixed a spelling mistake
 - added support for mvm charge meters
+- fixed disguise menu to use correct fonts
+- fixed health value shadow being positioned oddly at different resolutions
 
 <a>KNOWN BUGS</a>
 ====
