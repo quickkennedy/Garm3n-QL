@@ -74,28 +74,28 @@ here i've listed the updates that need to happen for each site the hud is on. th
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-- fixed charge meter labels
-- point countdown now uses chosen font
-- fixed health and ammo alignment
-- darker match hud
-- reverted new ready up borders
+- added support for mvm charge meters
 - improved overtime label
+- point countdown now uses chosen font
+- darker match hud
+- fixed health and ammo alignment
+- reverted new ready up borders
+- fixed charge meter labels
 - fixed class selection bug
 - fixed meters using wrong font
 - fixed a spelling mistake
-- added support for mvm charge meters
 - fixed disguise menu to use correct fonts
 - fixed health value shadow being positioned oddly at different resolutions
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
+- added support for mvm charge meters
+- improved overtime label
 - darker match hud
 - reverted new ready up borders
-- improved overtime label
 - fixed class selection bug
 - fixed meters using wrong font
 - fixed a spelling mistake
-- added support for mvm charge meters
 - fixed disguise menu to use correct fonts
 - fixed health value shadow being positioned oddly at different resolutions
 
