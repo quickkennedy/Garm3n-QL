@@ -24,7 +24,7 @@
 		"zpos"			"4"
 		"wide"			"0"
 		"tall"			"0"
-		"visible"		"0" // 1
+		"visible"		"0"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 	}		
@@ -46,12 +46,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"c-234"	
-		"ypos"			"r1370" // r137	
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"2"
 		"wide"			"30"	
 		"tall"			"30"	
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"
@@ -60,7 +60,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"cs-0.5-122-24"//"c-232+40"
+		"xpos"			"cs-0.5-146"
 		"ypos"			"r106"	
 		"zpos"			"5"
 		"wide"			"140"
@@ -76,7 +76,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"1"//"c-231+40"
+		"xpos"			"1"
 		"ypos"			"-1"
 		"zpos"			"4"
 		"wide"			"140"
