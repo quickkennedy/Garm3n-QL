@@ -75,7 +75,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-all caught up (:
+- changed meter text color
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -89,6 +89,7 @@ all caught up (:
 - fixed a spelling mistake
 - fixed disguise menu to use correct fonts
 - fixed health value shadow being positioned oddly at different resolutions
+- changed meter text color
 
 <a>KNOWN BUGS</a>
 ====
