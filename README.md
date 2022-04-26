@@ -76,6 +76,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
 - changed meter text color
+- aligned ammo shadow
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -90,6 +91,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - fixed disguise menu to use correct fonts
 - fixed health value shadow being positioned oddly at different resolutions
 - changed meter text color
+- aligned ammo shadow
 
 <a>KNOWN BUGS</a>
 ====
