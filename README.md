@@ -82,20 +82,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
-- added support for mvm charge meters
-- added overtime label customization
-- improved overtime label
-- darker match hud
-- reverted new ready up borders
-- fixed class selection bug
-- fixed meters using wrong font
-- fixed a spelling mistake
-- fixed disguise menu to use correct fonts
-- fixed health value shadow being positioned oddly at different resolutions
-- changed meter text color
-- aligned ammo shadow
-- static health account
-- improved match hud
+- all gud (:
 
 <a>KNOWN BUGS</a>
 ====
