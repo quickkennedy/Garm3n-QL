@@ -32,6 +32,7 @@ major changes include full linux support as well as a customizable font, but oth
 - better ready up menu
 - dark sourcescheme
 - full linux support (tested on kubuntu 21.1)
+- a speedometer
 
 <a>CHANGES</a>
 ====
@@ -79,10 +80,12 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - aligned ammo shadow
 - static health account
 - improved match hud
+- preloading
+- speedometer
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
-- all gud (:
+- speedometer
 
 <a>KNOWN BUGS</a>
 ====
