@@ -8,10 +8,10 @@
 		"fieldName"			"speedometer"
 		"zpos"				"-100"
 		"xpos"				"cs-0.5"
-		"ypos"				"c10"
+		"ypos"				"c85"
 		"wide"				"50"
 		"tall"				"12"
-		"image"				"replay/thumbnails/misc/numbers"
+		"image"				"replay/thumbnails/numbers"
 		"scaleImage"		"1"
 	}
 }
