@@ -1,3 +1,4 @@
-//uncomment line below for speedometer
+//uncomment lines below for speedometer
 
-//#base "../../scripts/speedometer.res"
+//#base "../../scripts/speedometer.res"				//WHITE SPEEDOMETER
+//#base "../../scripts/speedometer_color.res"		//COLORED SPEEDOMETER
