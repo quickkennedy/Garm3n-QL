@@ -1,3 +1,5 @@
+#base	"../../customizations/speedometer/speedometer.res"
+
 "Resource/UI/HudPlayerHealth.res"
 {
 	"HudPlayerHealth"
