@@ -26,13 +26,13 @@ major changes include full linux support as well as a customizable font, but oth
 	- sniper scope removal
 	- health account toggle
 	- overtime, warmup, setup, etc label toggle
+	- speedometer with color option
 - background from quake live (optional)
 - better loadout screen
 - better menu navigation via the keyboard
 - better ready up menu
 - dark sourcescheme
 - full linux support (tested on kubuntu 21.1)
-- a speedometer
 
 <a>CHANGES</a>
 ====
