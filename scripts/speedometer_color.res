@@ -11,7 +11,7 @@
 		"ypos"				"c85"
 		"wide"				"50"
 		"tall"				"12"
-		"image"				"replay/thumbnails/numbers"
+		"image"				"replay/thumbnails/numberscolor"
 		"scaleImage"		"1"
 	}
 }
