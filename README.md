@@ -82,10 +82,12 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - improved match hud
 - preloading
 - speedometer
+- removed console spam
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
 - speedometer
+- removed console spam
 
 <a>KNOWN BUGS</a>
 ====
