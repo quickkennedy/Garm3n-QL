@@ -581,7 +581,7 @@
 		}
 	}
 
-	"TournamentInstructionsLabelShadow"font
+	"TournamentInstructionsLabelShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentInstructionsLabelShadow"
