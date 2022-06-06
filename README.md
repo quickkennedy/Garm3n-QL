@@ -76,26 +76,11 @@ here i've listed the updates that need to happen for each site the hud is on. th
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-- changed meter text color
-- aligned ammo shadow
-- static health account
-- improved match hud
-- preloading
-- speedometer
-- removed console spam
-- fixed hudrocketpack
-- replaced wolf with pendulum
-- fixed damage account
-- fixed targetid
+- all caught up (:
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
-- speedometer
-- removed console spam
-- fixed hudrocketpack
-- replaced wolf with pendulum
-- fixed damage account
-- fixed targetid
+- all caught up (:
 
 <a>KNOWN BUGS</a>
 ====
