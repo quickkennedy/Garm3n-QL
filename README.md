@@ -85,6 +85,8 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - removed console spam
 - fixed hudrocketpack
 - replaced wolf with pendulum
+- fixed damage account
+- fixed targetid
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -92,6 +94,8 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - removed console spam
 - fixed hudrocketpack
 - replaced wolf with pendulum
+- fixed damage account
+- fixed targetid
 
 <a>KNOWN BUGS</a>
 ====
