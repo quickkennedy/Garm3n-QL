@@ -83,11 +83,15 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - preloading
 - speedometer
 - removed console spam
+- fixed hudrocketpack
+- replaced wolf with pendulum
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
 - speedometer
 - removed console spam
+- fixed hudrocketpack
+- replaced wolf with pendulum
 
 <a>KNOWN BUGS</a>
 ====
