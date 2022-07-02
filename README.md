@@ -76,11 +76,15 @@ here i've listed the updates that need to happen for each site the hud is on. th
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-- all caught up (:
+- added aiming guide
+- speedometer zpos fix
+- fixed match status
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
-- all caught up (:
+- added aiming guide
+- speedometer zpos fix
+- fixed match status
 
 <a>KNOWN BUGS</a>
 ====
