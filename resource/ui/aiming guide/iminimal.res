@@ -16,7 +16,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"leftBig"
-			"xpos"			"c310"
+			"xpos"			"c-310"
 			"ypos"			"cs-0.5"
 			"zpos"			"1"
 			"wide"			"280"
@@ -28,7 +28,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"leftSmall"
-			"xpos"			"c80"
+			"xpos"			"c-80"
 			"ypos"			"cs-0.5"
 			"zpos"			"2"
 			"wide"			"50"
