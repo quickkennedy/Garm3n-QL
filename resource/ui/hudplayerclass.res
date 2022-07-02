@@ -1,3 +1,5 @@
+#base	"../../customizations/aiming guide/aiming guide style.res"
+
 "Resource/UI/HudPlayerClass.res"
 {
 	// player class data
