@@ -79,12 +79,14 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - targetid things
 - item counters centered
 - medic charge fixed
+- hitmarker
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
 - targetid things
 - item counters centered
 - medic charge fixed
+- hitmarker
 
 <a>KNOWN BUGS</a>
 ====
