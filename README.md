@@ -81,6 +81,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - medic charge fixed
 - hitmarker
 - flag score customizations
+- better player status
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -89,6 +90,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - medic charge fixed
 - hitmarker
 - flag score customizations
+- better player status
 
 <a>KNOWN BUGS</a>
 ====
