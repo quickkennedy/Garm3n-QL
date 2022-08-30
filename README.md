@@ -85,6 +85,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - lowered flag status
 - raised damage account
 - demoman pipes icon customization
+- added menu_thumb_missing
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -97,6 +98,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - lowered flag status
 - raised damage account
 - demoman pipes icon customization
+- added menu_thumb_missing
 
 <a>KNOWN BUGS</a>
 ====
