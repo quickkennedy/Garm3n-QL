@@ -80,6 +80,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - item counters centered
 - medic charge fixed
 - hitmarker
+- flag score customizations
 
 <a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
 ====
@@ -87,6 +88,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - item counters centered
 - medic charge fixed
 - hitmarker
+- flag score customizations
 
 <a>KNOWN BUGS</a>
 ====
