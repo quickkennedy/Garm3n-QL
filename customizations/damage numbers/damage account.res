@@ -6,6 +6,6 @@
 
 //#base "../../resource/ui/HudDamageAccountDisableAccount.res"
 
-//uncomment the line below to have the damage on the right side of the screen
+//uncomment the line below to have the damage below reserve ammo
 
 //#base "../../resource/ui/HudDamageAccountRight.res"
