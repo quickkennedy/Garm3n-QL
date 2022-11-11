@@ -127,7 +127,7 @@
 			"textAlignment"							"west"
 			"labelText"								"%flagvalue%"
 			"font"									"Garm3nFontSmallest"
-			"fgcolor"								"Garm3nHUDBlack"
+			"fgcolor"								"Black"
 			"proportionalToParent"					"1"
 
 			"pin_to_sibling"						"FlagValue"
@@ -236,7 +236,7 @@
 				"textAlignment"						"east"
 				"labelText"							"%blue_escrow%"
 				"font"								"Garm3nFontSmall"
-				"fgcolor"							"Garm3nHUDBlack"
+				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
 				"pin_to_sibling"					"EscrowBlue"
@@ -293,7 +293,7 @@
 				"textAlignment"						"west"
 				"labelText"							"%red_escrow%"
 				"font"								"Garm3nFontSmall"
-				"fgcolor"							"Garm3nHUDBlack"
+				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
 				"pin_to_sibling"					"EscrowRed"
@@ -344,7 +344,7 @@
 					"textAlignment"					"center"
 					"labelText"						"WIN:"
 					"font"							"Garm3nFontTiny"
-					"fgcolor"						"Garm3nHUDBlack"
+					"fgcolor"						"Black"
 					"proportionalToParent"			"1"
 
 					"pin_to_sibling"				"VictoryLabel2"
@@ -386,7 +386,7 @@
 					"textAlignment"					"center"
 					"labelText"						"%victorytime%"
 					"font"							"Garm3nFontSmallest"
-					"fgcolor"						"Garm3nHUDBlack"
+					"fgcolor"						"Black"
 					"proportionalToParent"			"1"
 
 					"pin_to_sibling"              	"VictoryLabelTime"
@@ -451,7 +451,7 @@
 					"textAlignment"					"center"
 					"labelText"						"WIN:"
 					"font"							"Garm3nFontTiny"
-					"fgcolor"						"Garm3nHUDBlack"
+					"fgcolor"						"Black"
 					"proportionalToParent"			"1"
 
 					"pin_to_sibling"				"VictoryLabel2"
@@ -493,7 +493,7 @@
 					"textAlignment"					"center"
 					"labelText"						"%victorytime%"
 					"font"							"Garm3nFontSmallest"
-					"fgcolor"						"Garm3nHUDBlack"
+					"fgcolor"						"Black"
 					"proportionalToParent"			"1"
 
 					"pin_to_sibling"              	"VictoryLabelTime"
@@ -589,7 +589,7 @@
 				"textAlignment"						"east"
 				"labelText"							"%score%"
 				"font"								"Garm3nFontLarge"
-				"fgcolor"							"Garm3nHUDBlack"
+				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
 				"pin_to_sibling"					"Score"
@@ -641,7 +641,7 @@
 				"textAlignment"						"west"
 				"labelText"							"%score%"
 				"font"								"Garm3nFontLarge"
-				"fgcolor"							"Garm3nHUDBlack"
+				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
 				"pin_to_sibling"					"Score"
@@ -743,7 +743,7 @@
 				"textAlignment"						"center"
 				"labelText"							"%intelvalue%"
 				"font"								"Garm3nFontSmaller"
-				"fgcolor"							"Garm3nHUDBlack"
+				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
 				"pin_to_sibling"					"IntelValue"
@@ -845,7 +845,7 @@
 				"textAlignment"						"center"
 				"labelText"							"%intelvalue%"
 				"font"								"Garm3nFontSmaller"
-				"fgcolor"							"Garm3nHUDBlack"
+				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
 				"pin_to_sibling"					"IntelValue"
@@ -897,7 +897,7 @@
 			"textAlignment"							"center"
 			"labelText"								"%countdowntime%"
 			"font"									"Garm3nFontSmall"
-			"fgcolor"								"Garm3nHUDBlack"
+			"fgcolor"								"Black"
 			"proportionalToParent"					"1"
 
 			"pin_to_sibling"						"CountdownLabelTime"
