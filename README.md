@@ -86,6 +86,7 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - raised damage account
 - demoman pipes icon customization
 - added menu_thumb_missing
+- grower
 
 <a>KNOWN BUGS</a>
 ====
