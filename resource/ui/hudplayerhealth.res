@@ -1,4 +1,5 @@
 #base	"../../customizations/speedometer/speedometer.res"
+#base	"../../customizations/grower/grower.res"
 
 "Resource/UI/HudPlayerHealth.res"
 {

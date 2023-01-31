@@ -1,0 +1,62 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/grower"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+
+	"$alpha" "0.1"
+	
+	"$multiply" "350"
+	"$divide" "10"
+
+	"$scale" "[69 420]" // will be replaced
+	"$speed" "0" // will be replaced
+
+	Proxies {
+		// grab our player speed
+		PlayerSpeed {
+			scale 1
+			resultVar $speed
+		}
+		// clamp to speeds valid on most servers
+		Clamp {
+			min 0
+			max 3500
+			srcVar1 $speed
+			resultVar $speed
+		}
+
+		// since a scale of [2,2] would be 50% scale, we """invert""" the scale
+		Divide {
+			srcVar1 $divide 
+			srcVar2 $speed
+			resultVar $speed
+		}
+
+		// multiply by $multiply
+		Multiply {
+			srcVar1 $speed
+			srcVar2 $multiply
+			resultVar $speed
+		}
+		
+		// use these values in a vector
+		Equals {
+			srcVar1 $speed
+			resultVar "$scale[0]"
+		}
+		Equals {
+			srcVar1 $speed
+			resultVar "$scale[1]"
+		}
+
+		// transform the texture by our vector
+		texturetransform
+		{
+			scalevar $scale
+			resultvar $basetexturetransform
+		}
+	}
+}
