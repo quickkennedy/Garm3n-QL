@@ -87,19 +87,6 @@ here i've listed the updates that need to happen for each site the hud is on. th
 - demoman pipes icon customization
 - added menu_thumb_missing
 
-<a>LIST OF UPDATES HUDS.TF IS BEHIND ON</a>
-====
-- targetid things
-- item counters centered
-- medic charge fixed
-- hitmarker
-- flag score customizations
-- better player status
-- lowered flag status
-- raised damage account
-- demoman pipes icon customization
-- added menu_thumb_missing
-
 <a>KNOWN BUGS</a>
 ====
 - alternate ammo position is broken when using higher clip sizes (for example the snipers SMG)
