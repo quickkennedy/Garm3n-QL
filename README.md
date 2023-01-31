@@ -27,6 +27,7 @@ major changes include full linux support as well as a customizable font, but oth
 	- health account toggle
 	- overtime, warmup, setup, etc label toggle
 	- speedometer with color option
+	- circle crosshair that grows with speed
 - background from quake live (optional)
 - better loadout screen
 - better menu navigation via the keyboard
