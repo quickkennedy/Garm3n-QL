@@ -5,9 +5,20 @@
 here is a version of garm3nhud ql that is more towards the way i like huds to be, using fixes that hypnotize has put into some of their other updated huds.<br>
 major changes include full linux support as well as a customizable font, but other more minor things have been added that you can see below.<br>
 
+<a>INSTALLATION</a>
+====
+- Windows
+	- Use git bash/github desktop to clone the repository directly into the dir `tf/custom/quakehud`, if you clone it then you can pull for changes
+	- Alternatively you can download this from github and paste the downloaded files into the above directory, if you do this you have to redownload everytime you want changes
+- Mac
+	- Use your terminal and follow the first windows steps
+- Linux
+	- You know what you're doing
+
 <a>ADDITIONS</a>
 ====
-- customizations
+
+- available customizations
 	- streamer mode
 	- custom colors
 	- alternate fonts
@@ -29,6 +40,8 @@ major changes include full linux support as well as a customizable font, but oth
 - better ready up menu
 - dark sourcescheme
 - full linux support (tested on kubuntu 21.1)
+
+to enable a customization open the customizations directory and uncomment the lines in the respective file using a text editor.
 
 <a>CHANGES</a>
 ====
