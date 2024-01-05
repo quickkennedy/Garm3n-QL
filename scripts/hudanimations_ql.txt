@@ -186,5 +186,11 @@ event CompetitiveGame_RestoreChatWindow
 event HudTournament_MoveChatWindow
 {
 }
+event RDPositiveScorePulse
+{
+}
+event RDNegativeScorePulse
+{
+}
 
 //=================================================================================================================================
