@@ -72,23 +72,11 @@ here i've listed the updates that need to happen for each site the hud is on. th
 
 <a>LIST OF UPDATES GAMEBANANA IS BEHIND ON</a>
 ====
-- targetid things
-- item counters centered
-- medic charge fixed
-- hitmarker
-- flag score customizations
-- better player status
-- lowered flag status
-- raised damage account
-- demoman pipes icon customization
-- added menu_thumb_missing
-- grower
-- mvm fix
+- none
 
 <a>LIST OF UPDATES HUD-DB IS BEHIND ON</a>
 ====
-- grower
-- mvm fix
+- none
 
 <a>KNOWN BUGS</a>
 ====
