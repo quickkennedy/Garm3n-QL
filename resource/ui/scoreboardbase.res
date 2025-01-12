@@ -21,6 +21,9 @@
 		"ping_width"		"20"
 		"killstreak_width"	"12"
 		"killstreak_image_width" "12"
+
+		"medal_width"        "0"
+		"medal_column_width" "0"
 	}
 	"MainBG"
 	{
